@@ -10,7 +10,8 @@ app.use(express.urlencoded({extended:true}));
 app.use(session({
     secret: 'hehehehe',
     resave: false,
-    saveUninitialized: true
+    saveUninitialized: true,
+    cookie: { secure: true }
 }));
 
 app.get('/',(req,res)=>{
