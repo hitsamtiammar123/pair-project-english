@@ -15,7 +15,7 @@ app.use(session({
 }));
 
 app.get('/',(req,res)=>{
-    res.send('Ini halaman landing page untuk Pair Project ');
+    res.send('Ini halaman landing page untuk Pair Project '+JSON.stringify(req.session,null,4));
 });
 
 app.listen(PORT,()=>{
