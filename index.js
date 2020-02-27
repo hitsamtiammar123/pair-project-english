@@ -10,9 +10,9 @@ app.use(express.static(__dirname+'/public'));
 app.use(express.urlencoded({extended:true}));
 app.use(session({
     secret: 'hehehehe',
-    resave: false,
+    resave: true,
     saveUninitialized: true,
-    cookie: { secure: true }
+    cookie: { secure: false }
 }));
 
 app.use('/',require('./router/routerindex'));

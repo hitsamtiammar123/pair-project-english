@@ -4,11 +4,16 @@
         <a class="navbar-brand" href="#">Inggris senang-senang</a>
       </div>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#" data-toggle="modal" data-target="#login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        <li><a href="/courses">View All Course</a></li>
+        <% if(!session.user){%>
+          <li><a href="#" data-toggle="modal" data-target="#login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        <%}else{%>
+          <li><a href="#" onclick="logout()"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+        <%}%>
       </ul>
     </div>
 </nav>
-
+<% if(!session.user){%>
 <div class="modal fade" id="login" role="dialog">
     <div class="modal-dialog">
     
@@ -19,7 +24,7 @@
           <h4 class="modal-title">Silahkan login jika anda sudah punya</h4>
         </div>
         <div class="modal-body">
-            <form action="">
+            <form action="/user/login" method="POST">
                 <div class="form-group">
                     <label for="email">Email</label>
                     <input id="email" type="email" class="form-control" name="email" >
@@ -38,3 +43,14 @@
       
     </div>
   </div>
+<%}else{%>
+<form id="logout" action="/user/logout" method="POST">
+  
+</form>
+<script>
+  function logout(){
+    var logoutElem=document.getElementById('logout');
+    logoutElem.submit();
+  }
+</script>
+<%}%>
