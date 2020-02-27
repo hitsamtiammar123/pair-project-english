@@ -10,52 +10,19 @@
     <%-include("partial/navbar",{session:session})%>
     <div class="container course-hehe">
         <div class="row">
+            <% courses.forEach(course=>{%>
             <div class="col-sm-6 course-content">
                 <div class="col-sm-12 text-center">
                     <i class="ion-ios-people-outline icon-courses color-green"></i>
                 </div>
                 <div class="col-sm-12">
-                   <h2>Simple Present Tense</h2>
+                   <h2><%=course.name%></h2>
                    <p>
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta error consectetur quam explicabo quia veniam soluta, id alias, quidem molestias excepturi? Enim delectus neque dolorum nisi culpa laboriosam optio ex?
+                       <%=course.summary_text%>
                    </p>
                 </div>
             </div>
-            <div class="col-sm-6 course-content">
-                <div class="col-sm-12 text-center">
-                    <i class="ion-ios-people-outline icon-courses color-green"></i>
-                </div>
-                <div class="col-sm-12">
-                   <h2>Simple Present Tense</h2>
-                   <p>
-                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur aspernatur nihil repellendus error accusamus quae quia aliquam temporibus sapiente? Nihil veritatis, natus consectetur praesentium ducimus vitae facere fugit quos nulla.
-                       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas quos quod necessitatibus numquam, amet facere soluta, omnis ratione adipisci at nulla perferendis quidem velit suscipit molestiae harum? Fuga, omnis unde!
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta error consectetur quam explicabo quia veniam soluta, id alias, quidem molestias excepturi? Enim delectus neque dolorum nisi culpa laboriosam optio ex?
-                   </p>
-                </div>
-            </div>
-            <div class="col-sm-6 course-content">
-                <div class="col-sm-12 text-center">
-                    <i class="ion-ios-people-outline icon-courses color-green"></i>
-                </div>
-                <div class="col-sm-12">
-                   <h2>Simple Present Tense</h2>
-                   <p>
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta error consectetur quam explicabo quia veniam soluta, id alias, quidem molestias excepturi? Enim delectus neque dolorum nisi culpa laboriosam optio ex?
-                   </p>
-                </div>
-            </div>
-            <div class="col-sm-6 course-content">
-                <div class="col-sm-12 text-center">
-                    <i class="ion-ios-people-outline icon-courses color-green"></i>
-                </div>
-                <div class="col-sm-12">
-                   <h2>Simple Present Tense</h2>
-                   <p>
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta error consectetur quam explicabo quia veniam soluta, id alias, quidem molestias excepturi? Enim delectus neque dolorum nisi culpa laboriosam optio ex?
-                   </p>
-                </div>
-            </div>
+            <%})%>
         </div>
     </div>
     <%-include("partial/footer")%>

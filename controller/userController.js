@@ -1,4 +1,4 @@
-const {User}=require('../models');
+const {User,Course}=require('../models');
 
 class userController{
 
@@ -27,6 +27,7 @@ class userController{
             if(result){
                 req.session.user={
                     email
+
                 }
             }
             res.redirect('/user/course');
@@ -43,7 +44,22 @@ class userController{
     }
 
     myCourses(req,res){
-        res.render('ejs/my-course',{session:req.session});
+        let email=req.session.user?req.session.user.email:'';
+        User.findOne({
+            where:{
+                email
+            }
+        })
+        .then((user)=>{
+            user.getCourses()
+            .then((courses)=>{
+                res.render('ejs/my-course',{session:req.session,user,courses})
+            })
+            .catch((err)=>res.send(err))
+            
+        })
+        .catch((err)=>res.send(err))
+       
     }
 
 }

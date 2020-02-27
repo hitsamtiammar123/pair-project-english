@@ -1,0 +1,8 @@
+Punctuation
+
+    Punctuation merupakan tanda baca. 
+English punctuation yang paling sering digunakan antara lain: 
+full stop (titik), comma (koma), ellipsis (titik-titik), colon (titik dua),
+semicolon (titik koma), question mark (tanda tanya), exclamation mark (tanda seru), 
+quotation marks (tanda kutip), hyphen (tanda sambung), slash (garis miring), parentheses (kurung), 
+dan apostrophe.
