@@ -28,6 +28,10 @@
 .course-detail-1{
     padding-top: 5%;
 }
-.course-detail-2{
-    
+.course-summary{
+    min-height: 300px;
+}
+
+.bold{
+    font-weight: bold;
 }
