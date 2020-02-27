@@ -1,3 +1,8 @@
-const data=require('./storage/seeds/courses.json');
+const bcrypt=require('bcrypt');
 
-console.log(data[2].data);
+const saltRounds = 10;
+const myPlaintextPassword = 'hehehe';
+
+bcrypt.hash(myPlaintextPassword, saltRounds)
+.then((result)=>console.log(result))
+.catch((err)=>console.log(err));

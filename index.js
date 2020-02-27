@@ -1,5 +1,6 @@
 const express=require('express');
 const session=require('express-session');
+const fs=require('fs');
 
 const app=express();
 const PORT=process.env.PORT||3000;
@@ -14,9 +15,9 @@ app.use(session({
     cookie: { secure: true }
 }));
 
-app.get('/',(req,res)=>{
-    res.send('Ini halaman landing page untuk Pair Project '+JSON.stringify(req.session,null,4));
-});
+app.use('/',require('./router/routerindex'));
+app.use('/user',require('./router/routerUser'));
+app.use('/course',require('./router/routerCourses'));
 
 app.listen(PORT,()=>{
     console.log('Server listening on '+PORT);
