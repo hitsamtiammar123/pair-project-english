@@ -29,7 +29,7 @@ class userController{
                     email
                 }
             }
-            res.redirect('/');
+            res.redirect('/user/course');
 
         })
         .catch((err)=>{
@@ -40,6 +40,10 @@ class userController{
     logout(req,res){
         req.session.user=null;
         res.redirect('/');
+    }
+
+    myCourses(req,res){
+        res.render('ejs/my-course',{session:req.session});
     }
 
 }
