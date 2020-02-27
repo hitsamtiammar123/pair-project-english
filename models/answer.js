@@ -6,8 +6,8 @@ module.exports = (sequelize, DataTypes) => {
 
   Answer.init({
     questionId: DataTypes.INTEGER,
-    question: DataTypes.TEXT,
-    isTruAnswer: DataTypes.BOOLEAN
+    isTruAnswer: DataTypes.BOOLEAN,
+    answer:DataTypes.TEXT
   }, {sequelize,modelName:'Answer'})
 
 

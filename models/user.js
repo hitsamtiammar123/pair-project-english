@@ -32,7 +32,8 @@ module.exports = (sequelize, DataTypes) => {
       })
       .then((user)=>{
         let hash=user.password;
-        return bcrypt.compare(plainPassword, hash);
+        return bcrypt.compare(plainPassword, hash)
+        .then((result)=>Promise.resolve({result,user}));
       })
       .catch((err)=>Promise.reject(err))
     }

@@ -16,7 +16,9 @@
             </div>
 
             <% if(session.user){%>
-                <button class="btn btn-success btn-block">Ambil Kursus ini</button>
+                <a href="/user/course/learn/<%=course.id%>">
+                    <button class="btn btn-success btn-block"><%=!check?'Ambil Kursus ini':'Lanjutkan Kursus ini'%></button>
+                </a> 
             <%}else{%>
                 <h3 class="bold">Anda harus login untuk melanjutkan</h3>
             <%}%>

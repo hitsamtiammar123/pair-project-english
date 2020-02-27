@@ -17,20 +17,25 @@
         
           <div class="tab-content">
             <div id="detail" class="tab-pane fade in active">
-              <h3>HOME</h3>
-              <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore 
-                  et dolore magna aliqua.
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione repellendus ullam animi aperiam dolores facere ipsum, recusandae fuga cum harum assumenda earum quae. Minus, enim? Unde distinctio itaque tempore aliquam.
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum cum facere deserunt fugiat odio non voluptate, dicta tenetur, molestias voluptatum, eos magnam impedit quaerat aspernatur eveniet accusantium obcaecati ab maiores.
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, suscipit totam atque iste minima blanditiis, quos, doloremque expedita sapiente eum itaque repellat. Nemo commodi porro dolorum adipisci sapiente quo doloribus?
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim ducimus cumque illum, ipsam, quos repellendus voluptatibus non officiis laudantium natus sapiente aliquam assumenda provident atque id dolorum quis, ipsa qui.
-                </p>
+                <%-course.detail%>
             </div>
-            <div id="quiz" class="tab-pane fade">
-                <p class="mt-5">
-                    <button class="btn btn-success btn-block">Mulai Quiz</button>
-                </p>
+            <div id="quiz" class="tab-pane fade mt-5">
+                    <button class="btn btn-success btn-block" id="quiz-btn">Mulai Quiz</button>
+                    <div id="q"></div>
+                    <script>
+                      $('#quiz-btn').click(function(){
+                        $(this).css('display','none')
+                        var url='/course/quiz/<%=course.id%>';
+                        $.get(url,function(result){
+                          $('#q').html(result);
+                        }).fail(function(){
+                          $('#q').html('Ada error');
+                        })
+                        $('#q').html('Mohon tunggu');
+
+                      })
+ 
+                    </script>
             </div>
 
           </div>

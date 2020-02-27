@@ -10,7 +10,7 @@
     <%-include("partial/navbar",{session:session})%>
     <div class="container course-hehe">
         <div class="row">
-            <% courses.forEach(course=>{%>
+            <% user.Courses.forEach(course=>{%>
             <div class="col-sm-6 course-content">
                 <div class="col-sm-12 text-center">
                     <a href="/user/course/learn/<%=course.id%>">
@@ -19,7 +19,7 @@
                 </div>
                 <div class="col-sm-12">
                     <a href="/user/course/learn/<%=course.id%>">
-                        <h2><%=course.name%></h2>
+                        <h2><%=course.name%> : <%=course.UserCourse.score%> </h2>
                     </a>
                    <p>
                        <%=course.summary_text%>

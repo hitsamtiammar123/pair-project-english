@@ -1,0 +1,75 @@
+<div class="row" id="question-content">
+</div>
+<div class="row">
+    <button class="btn btn-primary" id="next-btn">berikutnya</button>
+</div>
+<script>
+    (function(){
+        var course=<%-course%>;
+        var currI=0;
+        var templateQ='<p>{q}</p>{answers}';
+        var templateA='<div class="radio"><label><input onclick="selectAnswer({answerId},{questionId})" type="radio" value="{index}" name="optradio">{answer}</label></div>'
+        var selectedHehe=[];
+
+        window.selectAnswer=function(answerId,questionId){
+            selectedHehe.push({
+                answer:answerId,
+                question:questionId
+            })
+        }
+
+        function sendToCheck(){
+
+        }
+
+        function generateQuestion(){
+           // debugger;
+            let currQ=course.Questions[currI];
+            let question=currQ.question;
+            let tCurr=templateQ.replace('{q}',question);
+            let aString='';
+            let codeI=65;
+            for(var i=0;i<currQ.Answers.length;i++){
+                let answer=currQ.Answers[i];
+                let a=templateA
+                .replace('{index}',String.fromCharCode(codeI))
+                .replace('{answer}',answer.answer)
+                .replace('{answerId}',answer.id)
+                .replace('{questionId}',currQ.id);
+                aString+=a;
+                codeI++;
+            }
+            tCurr=tCurr.replace('{answers}',aString);
+            $('#question-content').html(tCurr);
+        }
+
+        $('#next-btn').click(function(){
+            if(currI<course.Questions.length-1){
+                currI++;
+                generateQuestion();
+            }
+            else{
+                
+                $(this).css('display','none');
+                console.log({selectedHehe})
+                var dataSend={
+                    numberOfQuestion:course.Questions.length,
+                    answers:selectedHehe
+                }
+
+                var url='/user/course/learn/'+course.id+'/check';
+                $.post(url,dataSend,function(result){
+                    //console.log(result)
+                    $('#question-content').html(result);
+                }).fail(function(err){
+                    //console.log(err);
+                    $('#question-content').html('Ada error');
+                })
+
+            }
+        })
+        generateQuestion();
+    })();
+
+
+</script>

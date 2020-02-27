@@ -39,3 +39,8 @@
 .mt-5{
     margin-top: 50px;
 }
+
+#question-content{
+    min-height: 70px;
+    margin-bottom:20px;
+}

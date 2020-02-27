@@ -1,0 +1,15 @@
+<h3>Kamu mendapatkan Nilai <span class="bold" ><%=result.score%></span></h3>
+<div>
+    Jumlah Soal: <span><%=result.numberOfQuestion%></span>
+</div>
+<div>
+    Jumlah yang benar: <span style="color:green"><%=result.countTrue%> </span> Jumlah yang Salah: <span style="color:red"> <%=result.countFalse%> </span>
+</div>
+<div>
+    <span>Jumlah yang tidak diisi: <%=result.countEmpty%></span>
+</div>
+<div>
+    <a href="/user/course">
+        <button class="btn btn-primary">Kembali ke Pelatihan</button>
+    </a>
+</div>
