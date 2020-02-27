@@ -1,0 +1,76 @@
+[
+{
+    "type": "header",
+    "version": "4.8.3",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "englishfaster"
+},
+{
+    "type": "table",
+    "name": "courses",
+    "database": "englishfaster",
+    "data": 
+[
+{
+    "courseID": "1",
+    "courseName": "Simple Present Tense",
+    "courseSummary": "THE SIMPLE PRESENT TENSE IS USED:<br>\r\n                                    To express habits, general truths, repeated actions or unchanging situations, emotions and wishe,<br>\r\n                                    To give instructions or directions,<br>\r\n                                    To express fixed arrangements, present or future\r\n",
+    "difficulty": "B",
+    "bgColorID": "1",
+    "iconID": "1"
+},
+{
+    "courseID": "2",
+    "courseName": "Future Perfect Tense",
+    "courseSummary": " The future perfect tense refers to a completed action in the future. When we use this tense we are projecting ourselves forward into the future and looking back at an action that will be completed some time later than now. It is most often used with a time expression.\r\n",
+    "difficulty": "I",
+    "bgColorID": "4",
+    "iconID": "2"
+},
+{
+    "courseID": "3",
+    "courseName": "Punctuation",
+    "courseSummary": "Punctuation is used to create sense, clarity and stress in sentences. You use punctuation marks to structure and organise your writing.<br>\r\n                                    rules:<br>\r\n                                    the period (or full stop in British English), the comma, the exclamation mark, the question mark, the colon, the semicolon, the quotation mark, the apostrophe, the hyphen and the dash, parentheses and brackets\r\n",
+    "difficulty": "I",
+    "bgColorID": "3",
+    "iconID": "3"
+},
+{
+    "courseID": "4",
+    "courseName": "Determiners",
+    "courseSummary": " Determiners are words placed in front of a noun to make it clear what the noun refers to. Use the pages in this section to help you use English determiners correctly.\r\n",
+    "difficulty": "A",
+    "bgColorID": "2",
+    "iconID": "2"
+},
+{
+    "courseID": "5",
+    "courseName": "Simple Past Tense",
+    "courseSummary": "  The simple past is used to talk about a completed action in a time before now. Duration is not important. The time of the action can be in the recent past or the distant past.\r\n                                    You always use the simple past when you say when something happened, so it is associated with certain past time expressions\r\n",
+    "difficulty": "B",
+    "bgColorID": "4",
+    "iconID": "1"
+},
+{
+    "courseID": "6",
+    "courseName": "Future Continuous Tense",
+    "courseSummary": "The Future Continuous Tense refer to something that continue in the future. ",
+    "difficulty": "I",
+    "bgColorID": "2",
+    "iconID": "3"
+},
+{
+    "courseID": "7",
+    "courseName": "Future Tense",
+    "courseSummary": "Future tense explain us about something that happen in future. Future tense is the most important in languange grammar",
+    "difficulty": "I",
+    "bgColorID": "3",
+    "iconID": "4"
+}
+]
+
+}
+]

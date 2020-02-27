@@ -1,0 +1,4244 @@
+[
+{
+    "type": "header",
+    "version": "4.8.3",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "englishfaster"
+},
+{
+    "type": "table",
+    "name": "answer",
+    "database": "englishfaster",
+    "data": 
+[
+{
+    "answerID": "2",
+    "questionID": "1",
+    "answer": "study",
+    "chooice": "A"
+},
+{
+    "answerID": "3",
+    "questionID": "1",
+    "answer": "studies",
+    "chooice": "B"
+},
+{
+    "answerID": "4",
+    "questionID": "1",
+    "answer": "studying",
+    "chooice": "C"
+},
+{
+    "answerID": "5",
+    "questionID": "1",
+    "answer": "studied",
+    "chooice": "D"
+},
+{
+    "answerID": "6",
+    "questionID": "2",
+    "answer": "didn't",
+    "chooice": "A"
+},
+{
+    "answerID": "7",
+    "questionID": "2",
+    "answer": "doesn't",
+    "chooice": "B"
+},
+{
+    "answerID": "8",
+    "questionID": "2",
+    "answer": "don't",
+    "chooice": "C"
+},
+{
+    "answerID": "9",
+    "questionID": "2",
+    "answer": "haven't",
+    "chooice": "D"
+},
+{
+    "answerID": "10",
+    "questionID": "3",
+    "answer": "like",
+    "chooice": "A"
+},
+{
+    "answerID": "11",
+    "questionID": "3",
+    "answer": "likes",
+    "chooice": "B"
+},
+{
+    "answerID": "12",
+    "questionID": "3",
+    "answer": "liked",
+    "chooice": "C"
+},
+{
+    "answerID": "13",
+    "questionID": "3",
+    "answer": "liking",
+    "chooice": "D"
+},
+{
+    "answerID": "14",
+    "questionID": "4",
+    "answer": "like",
+    "chooice": "A"
+},
+{
+    "answerID": "15",
+    "questionID": "4",
+    "answer": "likes",
+    "chooice": "B"
+},
+{
+    "answerID": "16",
+    "questionID": "4",
+    "answer": "liked",
+    "chooice": "C"
+},
+{
+    "answerID": "17",
+    "questionID": "4",
+    "answer": "liking",
+    "chooice": "D"
+},
+{
+    "answerID": "18",
+    "questionID": "5",
+    "answer": "walks",
+    "chooice": "A"
+},
+{
+    "answerID": "19",
+    "questionID": "5",
+    "answer": "walking",
+    "chooice": "B"
+},
+{
+    "answerID": "20",
+    "questionID": "5",
+    "answer": "walk",
+    "chooice": "C"
+},
+{
+    "answerID": "21",
+    "questionID": "5",
+    "answer": "walker",
+    "chooice": "D"
+},
+{
+    "answerID": "22",
+    "questionID": "6",
+    "answer": "it is fact that he is nineteen years old now",
+    "chooice": "A"
+},
+{
+    "answerID": "23",
+    "questionID": "6",
+    "answer": "He was nineteen years old yesterday",
+    "chooice": "B"
+},
+{
+    "answerID": "24",
+    "questionID": "6",
+    "answer": "Tommorow, He will 19 years old",
+    "chooice": "C"
+},
+{
+    "answerID": "25",
+    "questionID": "6",
+    "answer": "He always being 19 years old",
+    "chooice": "D"
+},
+{
+    "answerID": "26",
+    "questionID": "7",
+    "answer": "Rina will like donout if some reason fulfilled",
+    "chooice": "A"
+},
+{
+    "answerID": "27",
+    "questionID": "7",
+    "answer": "it is true that Rina does not like donout",
+    "chooice": "B"
+},
+{
+    "answerID": "28",
+    "questionID": "7",
+    "answer": "Rina used to like donout",
+    "chooice": "C"
+},
+{
+    "answerID": "29",
+    "questionID": "7",
+    "answer": "Rina will like donout if she has mestruated",
+    "chooice": "D"
+},
+{
+    "answerID": "30",
+    "questionID": "8",
+    "answer": "we change word 'brother' become 'sister'",
+    "chooice": "A"
+},
+{
+    "answerID": "31",
+    "questionID": "8",
+    "answer": "instead of using Andi and Felix, we change these pronoun into 'they'",
+    "chooice": "B"
+},
+{
+    "answerID": "32",
+    "questionID": "8",
+    "answer": "change the 'is' word into 'are'",
+    "chooice": "C"
+},
+{
+    "answerID": "33",
+    "questionID": "8",
+    "answer": "change the 'and' word into 'or'",
+    "chooice": "D"
+},
+{
+    "answerID": "34",
+    "questionID": "9",
+    "answer": "it is fact that banana is sweat",
+    "chooice": "A"
+},
+{
+    "answerID": "35",
+    "questionID": "9",
+    "answer": "Banana can be sweat for some reason",
+    "chooice": "B"
+},
+{
+    "answerID": "36",
+    "questionID": "9",
+    "answer": "Banana is yellow",
+    "chooice": "C"
+},
+{
+    "answerID": "37",
+    "questionID": "9",
+    "answer": "Banana will be sweat",
+    "chooice": "D"
+},
+{
+    "answerID": "38",
+    "questionID": "10",
+    "answer": "Robby would like his school if there was no bully",
+    "chooice": "A"
+},
+{
+    "answerID": "39",
+    "questionID": "10",
+    "answer": "Robby would move out from his school",
+    "chooice": "B"
+},
+{
+    "answerID": "40",
+    "questionID": "10",
+    "answer": "if there was a pretty teacher in his school, Robby would stay in there",
+    "chooice": "C"
+},
+{
+    "answerID": "41",
+    "questionID": "10",
+    "answer": "Robby hated his friends very much",
+    "chooice": "D"
+},
+{
+    "answerID": "42",
+    "questionID": "11",
+    "answer": "I like you",
+    "chooice": "A"
+},
+{
+    "answerID": "43",
+    "questionID": "11",
+    "answer": "I likes you",
+    "chooice": "B"
+},
+{
+    "answerID": "44",
+    "questionID": "11",
+    "answer": "I does like you",
+    "chooice": "C"
+},
+{
+    "answerID": "45",
+    "questionID": "11",
+    "answer": "I does likes you",
+    "chooice": "D"
+},
+{
+    "answerID": "46",
+    "questionID": "12",
+    "answer": "Albert dont like apple and grape",
+    "chooice": "A"
+},
+{
+    "answerID": "47",
+    "questionID": "12",
+    "answer": "Albert do like apple and grape",
+    "chooice": "B"
+},
+{
+    "answerID": "48",
+    "questionID": "12",
+    "answer": "Albert is like apple and grape",
+    "chooice": "C"
+},
+{
+    "answerID": "49",
+    "questionID": "12",
+    "answer": "Albert does not like apple and grape",
+    "chooice": "D"
+},
+{
+    "answerID": "50",
+    "questionID": "13",
+    "answer": "A: Ananta do like eating jengkol\r\nQ: Do Ananta like eating jengkol?",
+    "chooice": "A"
+},
+{
+    "answerID": "51",
+    "questionID": "13",
+    "answer": "A: Ananta does not like eating jengkol\r\nQ: Do Ananta like eating jengkol?",
+    "chooice": "B"
+},
+{
+    "answerID": "52",
+    "questionID": "13",
+    "answer": "A: Ananta likes eating jengkol\r\nQ: Does Ananta like eating jengkol?",
+    "chooice": "C"
+},
+{
+    "answerID": "53",
+    "questionID": "13",
+    "answer": "A: Ananta like eating jengkol\r\nQ: Does Ananta like eating jengkol?",
+    "chooice": "D"
+},
+{
+    "answerID": "54",
+    "questionID": "14",
+    "answer": "Doesn't you drink milkshake?",
+    "chooice": "A"
+},
+{
+    "answerID": "55",
+    "questionID": "14",
+    "answer": "Did you drink milkshake?",
+    "chooice": "B"
+},
+{
+    "answerID": "56",
+    "questionID": "14",
+    "answer": "have you drink milkshake?",
+    "chooice": "C"
+},
+{
+    "answerID": "57",
+    "questionID": "14",
+    "answer": "Do you drink milkshake?",
+    "chooice": "D"
+},
+{
+    "answerID": "58",
+    "questionID": "15",
+    "answer": "A:You likes Irene\r\nN:You doesn't like irene",
+    "chooice": "A"
+},
+{
+    "answerID": "59",
+    "questionID": "15",
+    "answer": "A:You like Irene\r\nN:You doesn't like irene",
+    "chooice": "B"
+},
+{
+    "answerID": "60",
+    "questionID": "15",
+    "answer": "A:You like Irene\r\nN:You don't like irene",
+    "chooice": "C"
+},
+{
+    "answerID": "61",
+    "questionID": "15",
+    "answer": "A:You liking Irene\r\nN:You doesn't like irene",
+    "chooice": "D"
+},
+{
+    "answerID": "64",
+    "questionID": "16",
+    "answer": "eat",
+    "chooice": "A"
+},
+{
+    "answerID": "65",
+    "questionID": "16",
+    "answer": "eating",
+    "chooice": "B"
+},
+{
+    "answerID": "66",
+    "questionID": "16",
+    "answer": "ate",
+    "chooice": "C"
+},
+{
+    "answerID": "67",
+    "questionID": "16",
+    "answer": "eats",
+    "chooice": "D"
+},
+{
+    "answerID": "68",
+    "questionID": "17",
+    "answer": "ride",
+    "chooice": "A"
+},
+{
+    "answerID": "69",
+    "questionID": "17",
+    "answer": "riding",
+    "chooice": "B"
+},
+{
+    "answerID": "70",
+    "questionID": "17",
+    "answer": "rides",
+    "chooice": "C"
+},
+{
+    "answerID": "71",
+    "questionID": "17",
+    "answer": "rode",
+    "chooice": "D"
+},
+{
+    "answerID": "72",
+    "questionID": "18",
+    "answer": "likes",
+    "chooice": "A"
+},
+{
+    "answerID": "73",
+    "questionID": "18",
+    "answer": "like",
+    "chooice": "B"
+},
+{
+    "answerID": "74",
+    "questionID": "18",
+    "answer": "liked",
+    "chooice": "C"
+},
+{
+    "answerID": "75",
+    "questionID": "18",
+    "answer": "liking",
+    "chooice": "D"
+},
+{
+    "answerID": "76",
+    "questionID": "19",
+    "answer": "are",
+    "chooice": "A"
+},
+{
+    "answerID": "77",
+    "questionID": "19",
+    "answer": "am",
+    "chooice": "B"
+},
+{
+    "answerID": "78",
+    "questionID": "19",
+    "answer": "is",
+    "chooice": "C"
+},
+{
+    "answerID": "79",
+    "questionID": "19",
+    "answer": "to be",
+    "chooice": "D"
+},
+{
+    "answerID": "80",
+    "questionID": "20",
+    "answer": "gets",
+    "chooice": "A"
+},
+{
+    "answerID": "81",
+    "questionID": "20",
+    "answer": "earns",
+    "chooice": "B"
+},
+{
+    "answerID": "82",
+    "questionID": "20",
+    "answer": "receives",
+    "chooice": "C"
+},
+{
+    "answerID": "83",
+    "questionID": "20",
+    "answer": "elicits",
+    "chooice": "D"
+},
+{
+    "answerID": "84",
+    "questionID": "21",
+    "answer": "subject",
+    "chooice": "A"
+},
+{
+    "answerID": "85",
+    "questionID": "21",
+    "answer": "object",
+    "chooice": "B"
+},
+{
+    "answerID": "86",
+    "questionID": "21",
+    "answer": "verb",
+    "chooice": "C"
+},
+{
+    "answerID": "87",
+    "questionID": "21",
+    "answer": "adjective",
+    "chooice": "D"
+},
+{
+    "answerID": "88",
+    "questionID": "22",
+    "answer": "I",
+    "chooice": "A"
+},
+{
+    "answerID": "89",
+    "questionID": "22",
+    "answer": "this",
+    "chooice": "B"
+},
+{
+    "answerID": "90",
+    "questionID": "22",
+    "answer": "like",
+    "chooice": "C"
+},
+{
+    "answerID": "91",
+    "questionID": "22",
+    "answer": "game",
+    "chooice": "D"
+},
+{
+    "answerID": "92",
+    "questionID": "23",
+    "answer": "car",
+    "chooice": "A"
+},
+{
+    "answerID": "93",
+    "questionID": "23",
+    "answer": "when",
+    "chooice": "B"
+},
+{
+    "answerID": "94",
+    "questionID": "23",
+    "answer": "she",
+    "chooice": ""
+},
+{
+    "answerID": "95",
+    "questionID": "23",
+    "answer": "drives",
+    "chooice": ""
+},
+{
+    "answerID": "96",
+    "questionID": "24",
+    "answer": "object",
+    "chooice": "A"
+},
+{
+    "answerID": "97",
+    "questionID": "24",
+    "answer": "subject",
+    "chooice": "B"
+},
+{
+    "answerID": "98",
+    "questionID": "24",
+    "answer": "verb",
+    "chooice": "C"
+},
+{
+    "answerID": "99",
+    "questionID": "24",
+    "answer": "annotation",
+    "chooice": "D"
+},
+{
+    "answerID": "100",
+    "questionID": "25",
+    "answer": "She don't like this music because it's too noisy",
+    "chooice": "A"
+},
+{
+    "answerID": "101",
+    "questionID": "25",
+    "answer": "She do like this music because it's too noisy",
+    "chooice": "B"
+},
+{
+    "answerID": "102",
+    "questionID": "25",
+    "answer": "She does like this music because it's too noisy",
+    "chooice": "C"
+},
+{
+    "answerID": "103",
+    "questionID": "25",
+    "answer": "She doesn't like this music because it's too noisy",
+    "chooice": "D"
+},
+{
+    "answerID": "104",
+    "questionID": "26",
+    "answer": "subject",
+    "chooice": "A"
+},
+{
+    "answerID": "105",
+    "questionID": "26",
+    "answer": "verb",
+    "chooice": "B"
+},
+{
+    "answerID": "106",
+    "questionID": "26",
+    "answer": "object",
+    "chooice": "C"
+},
+{
+    "answerID": "107",
+    "questionID": "26",
+    "answer": "annotation",
+    "chooice": "D"
+},
+{
+    "answerID": "108",
+    "questionID": "27",
+    "answer": "He never play basketball",
+    "chooice": "A"
+},
+{
+    "answerID": "109",
+    "questionID": "27",
+    "answer": "He plays basketball again and again",
+    "chooice": "B"
+},
+{
+    "answerID": "110",
+    "questionID": "27",
+    "answer": "He plays basketball only for a moment",
+    "chooice": "C"
+},
+{
+    "answerID": "111",
+    "questionID": "27",
+    "answer": "He seldom plays basketball",
+    "chooice": "D"
+},
+{
+    "answerID": "112",
+    "questionID": "28",
+    "answer": "We don't care about israel again and again",
+    "chooice": "A"
+},
+{
+    "answerID": "113",
+    "questionID": "28",
+    "answer": "We don't care abour israel for a moment",
+    "chooice": "B"
+},
+{
+    "answerID": "114",
+    "questionID": "28",
+    "answer": "We truly do not care about israel",
+    "chooice": "C"
+},
+{
+    "answerID": "115",
+    "questionID": "28",
+    "answer": "We cannot care to Israel",
+    "chooice": "D"
+},
+{
+    "answerID": "116",
+    "questionID": "29",
+    "answer": "Popular Actor",
+    "chooice": "A"
+},
+{
+    "answerID": "117",
+    "questionID": "29",
+    "answer": "Aliando Syarief",
+    "chooice": "B"
+},
+{
+    "answerID": "118",
+    "questionID": "29",
+    "answer": "is the ",
+    "chooice": "C"
+},
+{
+    "answerID": "119",
+    "questionID": "29",
+    "answer": "none of the above",
+    "chooice": "D"
+},
+{
+    "answerID": "120",
+    "questionID": "30",
+    "answer": "supporter",
+    "chooice": "A"
+},
+{
+    "answerID": "121",
+    "questionID": "30",
+    "answer": "support",
+    "chooice": "B"
+},
+{
+    "answerID": "122",
+    "questionID": "30",
+    "answer": "supports",
+    "chooice": "C"
+},
+{
+    "answerID": "123",
+    "questionID": "30",
+    "answer": "supporting",
+    "chooice": "D"
+},
+{
+    "answerID": "124",
+    "questionID": "31",
+    "answer": "do we eat last night?",
+    "chooice": "A"
+},
+{
+    "answerID": "125",
+    "questionID": "31",
+    "answer": "does we eat last night?",
+    "chooice": "B"
+},
+{
+    "answerID": "126",
+    "questionID": "31",
+    "answer": "did we eat last night?",
+    "chooice": "D"
+},
+{
+    "answerID": "127",
+    "questionID": "31",
+    "answer": "have we eat last night?",
+    "chooice": "D"
+},
+{
+    "answerID": "128",
+    "questionID": "32",
+    "answer": "I eaten macaroni last night",
+    "chooice": "A"
+},
+{
+    "answerID": "129",
+    "questionID": "32",
+    "answer": "i'm eating macaroni last night",
+    "chooice": "B"
+},
+{
+    "answerID": "130",
+    "questionID": "32",
+    "answer": "I have eaten macaroni last night ",
+    "chooice": "C"
+},
+{
+    "answerID": "131",
+    "questionID": "32",
+    "answer": "i ate macaroni last night",
+    "chooice": "D"
+},
+{
+    "answerID": "132",
+    "questionID": "33",
+    "answer": "Last night, i do not visited my grandmother house",
+    "chooice": "A"
+},
+{
+    "answerID": "133",
+    "questionID": "33",
+    "answer": "Last night, i have not visited my grandmother house",
+    "chooice": "B"
+},
+{
+    "answerID": "134",
+    "questionID": "33",
+    "answer": "Last night, I didn't visit my grandmother house",
+    "chooice": "C"
+},
+{
+    "answerID": "135",
+    "questionID": "33",
+    "answer": "Last night, i didn't visited my grandmother house",
+    "chooice": "D"
+},
+{
+    "answerID": "136",
+    "questionID": "34",
+    "answer": "The speaker didn't drink juice for a moment",
+    "chooice": "A"
+},
+{
+    "answerID": "137",
+    "questionID": "34",
+    "answer": "The Speaker truly didn't drink juice last morning",
+    "chooice": "B"
+},
+{
+    "answerID": "138",
+    "questionID": "34",
+    "answer": "The Speaker didn't like orange juice",
+    "chooice": "C"
+},
+{
+    "answerID": "139",
+    "questionID": "34",
+    "answer": "The Speaker used to like orange juice",
+    "chooice": "D"
+},
+{
+    "answerID": "140",
+    "questionID": "35",
+    "answer": "We use this carpet last night",
+    "chooice": "A"
+},
+{
+    "answerID": "141",
+    "questionID": "35",
+    "answer": "We didn't used this carpet last night",
+    "chooice": "B"
+},
+{
+    "answerID": "142",
+    "questionID": "35",
+    "answer": "We used this carpet last night",
+    "chooice": "C"
+},
+{
+    "answerID": "143",
+    "questionID": "35",
+    "answer": "we used to this carpet last night",
+    "chooice": "D"
+},
+{
+    "answerID": "144",
+    "questionID": "36",
+    "answer": "N: I play basketball last morning <br>\r\nQ: Do I play basketball last morning",
+    "chooice": "A"
+},
+{
+    "answerID": "145",
+    "questionID": "36",
+    "answer": "N: I played basketball last morning <br>\r\nQ: Do I play basketball last morning",
+    "chooice": "B"
+},
+{
+    "answerID": "146",
+    "questionID": "36",
+    "answer": "N: I play basketball last morning <br>\r\nQ: Do I played basketball last morning",
+    "chooice": "C"
+},
+{
+    "answerID": "147",
+    "questionID": "36",
+    "answer": "N: I played basketball last morning <br>\r\nQ: Do I play basketball last morning",
+    "chooice": "D"
+},
+{
+    "answerID": "152",
+    "questionID": "37",
+    "answer": "The respondent have learnt in binus university for long time",
+    "chooice": "A"
+},
+{
+    "answerID": "153",
+    "questionID": "37",
+    "answer": "The respondent never learnt in Binus university anymore",
+    "chooice": "B"
+},
+{
+    "answerID": "154",
+    "questionID": "37",
+    "answer": "The respondent learnt in Binus University in the past",
+    "chooice": "C"
+},
+{
+    "answerID": "155",
+    "questionID": "37",
+    "answer": "The Respondent used to learn in Binus University",
+    "chooice": "D"
+},
+{
+    "answerID": "156",
+    "questionID": "38",
+    "answer": "The Respondent really dont like manggo, but now the respondent likes it",
+    "chooice": "A"
+},
+{
+    "answerID": "157",
+    "questionID": "38",
+    "answer": "The Respondent have never liked mango",
+    "chooice": "B"
+},
+{
+    "answerID": "158",
+    "questionID": "38",
+    "answer": "The Respondent would like mango if some event happen",
+    "chooice": "C"
+},
+{
+    "answerID": "159",
+    "questionID": "38",
+    "answer": "The Respondent really didn't like mango in the past",
+    "chooice": "D"
+},
+{
+    "answerID": "160",
+    "questionID": "39",
+    "answer": "The Respondent enjoys playing game, but now he never enjoys it anymore",
+    "chooice": "A"
+},
+{
+    "answerID": "161",
+    "questionID": "39",
+    "answer": "The Respondent enjoyed playing game in fact",
+    "chooice": "B"
+},
+{
+    "answerID": "162",
+    "questionID": "39",
+    "answer": "The Respondent would never enjoy playing game",
+    "chooice": "C"
+},
+{
+    "answerID": "163",
+    "questionID": "39",
+    "answer": "The Respondent enjoyed playing game for some reason",
+    "chooice": "D"
+},
+{
+    "answerID": "164",
+    "questionID": "40",
+    "answer": "The respondent ask whether he forgot his friend's birthday party last night",
+    "chooice": "A"
+},
+{
+    "answerID": "165",
+    "questionID": "40",
+    "answer": "The respondent didn't know that his friend had a birthday party",
+    "chooice": "B"
+},
+{
+    "answerID": "166",
+    "questionID": "40",
+    "answer": "The Respondent ask this question for some spesific reasong",
+    "chooice": "C"
+},
+{
+    "answerID": "167",
+    "questionID": "40",
+    "answer": "The Respondent ask to his speaker because he felt he forgot his friend's birhday party",
+    "chooice": "D"
+},
+{
+    "answerID": "168",
+    "questionID": "41",
+    "answer": "it is true that Tommy and Diana got along in past",
+    "chooice": "A"
+},
+{
+    "answerID": "169",
+    "questionID": "41",
+    "answer": "Tommy and Diana got along for some reason",
+    "chooice": "B"
+},
+{
+    "answerID": "170",
+    "questionID": "41",
+    "answer": "Tommy and Diana will get along in future",
+    "chooice": "C"
+},
+{
+    "answerID": "171",
+    "questionID": "41",
+    "answer": "Tommy and Diana have got along for long time",
+    "chooice": "D"
+},
+{
+    "answerID": "172",
+    "questionID": "42",
+    "answer": "lost",
+    "chooice": "A"
+},
+{
+    "answerID": "173",
+    "questionID": "42",
+    "answer": "was losing",
+    "chooice": "B"
+},
+{
+    "answerID": "174",
+    "questionID": "42",
+    "answer": "loss",
+    "chooice": "C"
+},
+{
+    "answerID": "175",
+    "questionID": "42",
+    "answer": "were losing ",
+    "chooice": "D"
+},
+{
+    "answerID": "176",
+    "questionID": "43",
+    "answer": "was entering",
+    "chooice": "A"
+},
+{
+    "answerID": "177",
+    "questionID": "43",
+    "answer": "has entered",
+    "chooice": "B"
+},
+{
+    "answerID": "178",
+    "questionID": "43",
+    "answer": "have entered ",
+    "chooice": "C"
+},
+{
+    "answerID": "179",
+    "questionID": "43",
+    "answer": "entered",
+    "chooice": "D"
+},
+{
+    "answerID": "180",
+    "questionID": "44",
+    "answer": "was reading",
+    "chooice": "A"
+},
+{
+    "answerID": "181",
+    "questionID": "44",
+    "answer": "had read",
+    "chooice": "B"
+},
+{
+    "answerID": "182",
+    "questionID": "44",
+    "answer": "read",
+    "chooice": "C"
+},
+{
+    "answerID": "183",
+    "questionID": "44",
+    "answer": "readed",
+    "chooice": "D"
+},
+{
+    "answerID": "184",
+    "questionID": "45",
+    "answer": "relaxed",
+    "chooice": "A"
+},
+{
+    "answerID": "185",
+    "questionID": "45",
+    "answer": "were relaxing",
+    "chooice": "B"
+},
+{
+    "answerID": "186",
+    "questionID": "45",
+    "answer": "relax ",
+    "chooice": "C"
+},
+{
+    "answerID": "187",
+    "questionID": "45",
+    "answer": "had relaxed",
+    "chooice": "D"
+},
+{
+    "answerID": "188",
+    "questionID": "46",
+    "answer": "were going",
+    "chooice": "A"
+},
+{
+    "answerID": "189",
+    "questionID": "46",
+    "answer": "went",
+    "chooice": "B"
+},
+{
+    "answerID": "190",
+    "questionID": "46",
+    "answer": "had gone",
+    "chooice": "C"
+},
+{
+    "answerID": "191",
+    "questionID": "46",
+    "answer": "goed",
+    "chooice": "D"
+},
+{
+    "answerID": "192",
+    "questionID": "47",
+    "answer": "went",
+    "chooice": "A"
+},
+{
+    "answerID": "193",
+    "questionID": "47",
+    "answer": "had gone",
+    "chooice": "B"
+},
+{
+    "answerID": "194",
+    "questionID": "47",
+    "answer": "goed",
+    "chooice": "C"
+},
+{
+    "answerID": "195",
+    "questionID": "47",
+    "answer": "were going",
+    "chooice": "D"
+},
+{
+    "answerID": "196",
+    "questionID": "48",
+    "answer": "listened",
+    "chooice": "A"
+},
+{
+    "answerID": "197",
+    "questionID": "48",
+    "answer": "listens",
+    "chooice": "B"
+},
+{
+    "answerID": "198",
+    "questionID": "48",
+    "answer": "was listening",
+    "chooice": "C"
+},
+{
+    "answerID": "199",
+    "questionID": "48",
+    "answer": "listen ",
+    "chooice": "D"
+},
+{
+    "answerID": "200",
+    "questionID": "49",
+    "answer": "walks ",
+    "chooice": "A"
+},
+{
+    "answerID": "201",
+    "questionID": "49",
+    "answer": "was walking",
+    "chooice": "B"
+},
+{
+    "answerID": "202",
+    "questionID": "49",
+    "answer": "walk",
+    "chooice": "C"
+},
+{
+    "answerID": "203",
+    "questionID": "49",
+    "answer": "walked",
+    "chooice": "D"
+},
+{
+    "answerID": "204",
+    "questionID": "50",
+    "answer": "Do",
+    "chooice": "A"
+},
+{
+    "answerID": "205",
+    "questionID": "50",
+    "answer": "Does",
+    "chooice": "B"
+},
+{
+    "answerID": "206",
+    "questionID": "50",
+    "answer": "Did",
+    "chooice": "C"
+},
+{
+    "answerID": "207",
+    "questionID": "50",
+    "answer": "Has ",
+    "chooice": "D"
+},
+{
+    "answerID": "208",
+    "questionID": "72",
+    "answer": "this",
+    "chooice": "A"
+},
+{
+    "answerID": "209",
+    "questionID": "72",
+    "answer": "that",
+    "chooice": "B"
+},
+{
+    "answerID": "210",
+    "questionID": "72",
+    "answer": "those",
+    "chooice": "C"
+},
+{
+    "answerID": "211",
+    "questionID": "72",
+    "answer": "there",
+    "chooice": "D"
+},
+{
+    "answerID": "212",
+    "questionID": "73",
+    "answer": "an ,an table",
+    "chooice": "A"
+},
+{
+    "answerID": "213",
+    "questionID": "73",
+    "answer": "other ,      this table",
+    "chooice": "B"
+},
+{
+    "answerID": "214",
+    "questionID": "73",
+    "answer": "a   ,    that table",
+    "chooice": "C"
+},
+{
+    "answerID": "215",
+    "questionID": "73",
+    "answer": "another    ,   an table",
+    "chooice": "D"
+},
+{
+    "answerID": "216",
+    "questionID": "74",
+    "answer": "This",
+    "chooice": "A"
+},
+{
+    "answerID": "217",
+    "questionID": "74",
+    "answer": "That",
+    "chooice": "B"
+},
+{
+    "answerID": "218",
+    "questionID": "74",
+    "answer": "Those",
+    "chooice": "C"
+},
+{
+    "answerID": "219",
+    "questionID": "74",
+    "answer": "These",
+    "chooice": "D"
+},
+{
+    "answerID": "220",
+    "questionID": "75",
+    "answer": "to",
+    "chooice": "A"
+},
+{
+    "answerID": "221",
+    "questionID": "75",
+    "answer": "by",
+    "chooice": "B"
+},
+{
+    "answerID": "222",
+    "questionID": "75",
+    "answer": "that",
+    "chooice": "C"
+},
+{
+    "answerID": "223",
+    "questionID": "75",
+    "answer": "this",
+    "chooice": "D"
+},
+{
+    "answerID": "224",
+    "questionID": "76",
+    "answer": "a  ,  this",
+    "chooice": "A"
+},
+{
+    "answerID": "225",
+    "questionID": "76",
+    "answer": "an  ,  that",
+    "chooice": "B"
+},
+{
+    "answerID": "226",
+    "questionID": "76",
+    "answer": "an ,    these",
+    "chooice": "C"
+},
+{
+    "answerID": "227",
+    "questionID": "76",
+    "answer": "an  ,  those",
+    "chooice": "D"
+},
+{
+    "answerID": "228",
+    "questionID": "77",
+    "answer": "is",
+    "chooice": "A"
+},
+{
+    "answerID": "229",
+    "questionID": "77",
+    "answer": "an",
+    "chooice": "B"
+},
+{
+    "answerID": "230",
+    "questionID": "77",
+    "answer": "a",
+    "chooice": "C"
+},
+{
+    "answerID": "231",
+    "questionID": "77",
+    "answer": "by",
+    "chooice": "D"
+},
+{
+    "answerID": "232",
+    "questionID": "78",
+    "answer": "anything",
+    "chooice": "A"
+},
+{
+    "answerID": "233",
+    "questionID": "78",
+    "answer": "any",
+    "chooice": "B"
+},
+{
+    "answerID": "234",
+    "questionID": "78",
+    "answer": "other test",
+    "chooice": "C"
+},
+{
+    "answerID": "235",
+    "questionID": "78",
+    "answer": "another test",
+    "chooice": "D"
+},
+{
+    "answerID": "236",
+    "questionID": "79",
+    "answer": "any",
+    "chooice": "A"
+},
+{
+    "answerID": "237",
+    "questionID": "79",
+    "answer": "other",
+    "chooice": "B"
+},
+{
+    "answerID": "238",
+    "questionID": "79",
+    "answer": "another",
+    "chooice": "C"
+},
+{
+    "answerID": "239",
+    "questionID": "79",
+    "answer": "anything",
+    "chooice": "D"
+},
+{
+    "answerID": "240",
+    "questionID": "80",
+    "answer": "another",
+    "chooice": "A"
+},
+{
+    "answerID": "241",
+    "questionID": "80",
+    "answer": "other",
+    "chooice": "B"
+},
+{
+    "answerID": "242",
+    "questionID": "80",
+    "answer": "any",
+    "chooice": "C"
+},
+{
+    "answerID": "243",
+    "questionID": "80",
+    "answer": "anything",
+    "chooice": "D"
+},
+{
+    "answerID": "244",
+    "questionID": "81",
+    "answer": "everyone\tan",
+    "chooice": "A"
+},
+{
+    "answerID": "245",
+    "questionID": "81",
+    "answer": "everybody\ta",
+    "chooice": "B"
+},
+{
+    "answerID": "246",
+    "questionID": "81",
+    "answer": "anything\ta",
+    "chooice": "C"
+},
+{
+    "answerID": "247",
+    "questionID": "81",
+    "answer": "anyone\t  an  ",
+    "chooice": "D"
+},
+{
+    "answerID": "248",
+    "questionID": "82",
+    "answer": "this",
+    "chooice": "A"
+},
+{
+    "answerID": "249",
+    "questionID": "82",
+    "answer": "that",
+    "chooice": "B"
+},
+{
+    "answerID": "250",
+    "questionID": "82",
+    "answer": "these",
+    "chooice": "C"
+},
+{
+    "answerID": "251",
+    "questionID": "82",
+    "answer": "those",
+    "chooice": "D"
+},
+{
+    "answerID": "252",
+    "questionID": "83",
+    "answer": "every",
+    "chooice": "A"
+},
+{
+    "answerID": "253",
+    "questionID": "83",
+    "answer": "another",
+    "chooice": "B"
+},
+{
+    "answerID": "254",
+    "questionID": "83",
+    "answer": "other",
+    "chooice": "C"
+},
+{
+    "answerID": "255",
+    "questionID": "83",
+    "answer": "any",
+    "chooice": "D"
+},
+{
+    "answerID": "256",
+    "questionID": "84",
+    "answer": "Those,    the",
+    "chooice": "A"
+},
+{
+    "answerID": "257",
+    "questionID": "84",
+    "answer": "These,\tthe",
+    "chooice": "B"
+},
+{
+    "answerID": "258",
+    "questionID": "84",
+    "answer": "That,\tin",
+    "chooice": "C"
+},
+{
+    "answerID": "259",
+    "questionID": "84",
+    "answer": "These,\tA",
+    "chooice": "D"
+},
+{
+    "answerID": "260",
+    "questionID": "85",
+    "answer": "a little of",
+    "chooice": "A"
+},
+{
+    "answerID": "261",
+    "questionID": "85",
+    "answer": "a bit of",
+    "chooice": "B"
+},
+{
+    "answerID": "262",
+    "questionID": "85",
+    "answer": "a few of",
+    "chooice": "C"
+},
+{
+    "answerID": "263",
+    "questionID": "85",
+    "answer": "a lot of",
+    "chooice": "D"
+},
+{
+    "answerID": "264",
+    "questionID": "86",
+    "answer": "All of People",
+    "chooice": "A"
+},
+{
+    "answerID": "265",
+    "questionID": "86",
+    "answer": "another",
+    "chooice": "B"
+},
+{
+    "answerID": "266",
+    "questionID": "86",
+    "answer": "everyone",
+    "chooice": "C"
+},
+{
+    "answerID": "267",
+    "questionID": "86",
+    "answer": "anyone",
+    "chooice": "D"
+},
+{
+    "answerID": "268",
+    "questionID": "87",
+    "answer": "All of my money",
+    "chooice": "A"
+},
+{
+    "answerID": "269",
+    "questionID": "87",
+    "answer": "A bit of my money",
+    "chooice": "B"
+},
+{
+    "answerID": "270",
+    "questionID": "87",
+    "answer": "A few of my money",
+    "chooice": "C"
+},
+{
+    "answerID": "271",
+    "questionID": "87",
+    "answer": "A lot of my money",
+    "chooice": "D"
+},
+{
+    "answerID": "272",
+    "questionID": "88",
+    "answer": "no",
+    "chooice": "A"
+},
+{
+    "answerID": "273",
+    "questionID": "88",
+    "answer": "none",
+    "chooice": "B"
+},
+{
+    "answerID": "274",
+    "questionID": "88",
+    "answer": "any",
+    "chooice": "C"
+},
+{
+    "answerID": "275",
+    "questionID": "88",
+    "answer": "no other",
+    "chooice": "D"
+},
+{
+    "answerID": "276",
+    "questionID": "89",
+    "answer": "little",
+    "chooice": "A"
+},
+{
+    "answerID": "277",
+    "questionID": "89",
+    "answer": "few",
+    "chooice": "B"
+},
+{
+    "answerID": "278",
+    "questionID": "89",
+    "answer": "no one",
+    "chooice": "C"
+},
+{
+    "answerID": "279",
+    "questionID": "89",
+    "answer": "no",
+    "chooice": "D"
+},
+{
+    "answerID": "280",
+    "questionID": "90",
+    "answer": "no",
+    "chooice": "A"
+},
+{
+    "answerID": "281",
+    "questionID": "90",
+    "answer": "much",
+    "chooice": "B"
+},
+{
+    "answerID": "282",
+    "questionID": "90",
+    "answer": "many",
+    "chooice": "C"
+},
+{
+    "answerID": "283",
+    "questionID": "90",
+    "answer": "more",
+    "chooice": "D"
+},
+{
+    "answerID": "284",
+    "questionID": "91",
+    "answer": "another",
+    "chooice": "A"
+},
+{
+    "answerID": "285",
+    "questionID": "91",
+    "answer": "no one",
+    "chooice": "B"
+},
+{
+    "answerID": "286",
+    "questionID": "91",
+    "answer": "neither",
+    "chooice": "C"
+},
+{
+    "answerID": "287",
+    "questionID": "91",
+    "answer": "either",
+    "chooice": "D"
+},
+{
+    "answerID": "288",
+    "questionID": "92",
+    "answer": "none",
+    "chooice": "A"
+},
+{
+    "answerID": "289",
+    "questionID": "92",
+    "answer": "no",
+    "chooice": "B"
+},
+{
+    "answerID": "290",
+    "questionID": "92",
+    "answer": "anything",
+    "chooice": "C"
+},
+{
+    "answerID": "291",
+    "questionID": "92",
+    "answer": "any",
+    "chooice": "D"
+},
+{
+    "answerID": "292",
+    "questionID": "93",
+    "answer": "will have moved",
+    "chooice": "A"
+},
+{
+    "answerID": "293",
+    "questionID": "93",
+    "answer": "will had moved",
+    "chooice": "B"
+},
+{
+    "answerID": "294",
+    "questionID": "93",
+    "answer": "will has moved",
+    "chooice": "C"
+},
+{
+    "answerID": "295",
+    "questionID": "93",
+    "answer": "will have moving",
+    "chooice": "D"
+},
+{
+    "answerID": "296",
+    "questionID": "94",
+    "answer": "will have seeing",
+    "chooice": "A"
+},
+{
+    "answerID": "297",
+    "questionID": "94",
+    "answer": "will have seen",
+    "chooice": "B"
+},
+{
+    "answerID": "298",
+    "questionID": "94",
+    "answer": "will had seen",
+    "chooice": "C"
+},
+{
+    "answerID": "299",
+    "questionID": "94",
+    "answer": "will have been seen",
+    "chooice": "D"
+},
+{
+    "answerID": "300",
+    "questionID": "95",
+    "answer": "will had finished",
+    "chooice": "A"
+},
+{
+    "answerID": "301",
+    "questionID": "95",
+    "answer": "will have been finished",
+    "chooice": "B"
+},
+{
+    "answerID": "302",
+    "questionID": "95",
+    "answer": "will have finished",
+    "chooice": "C"
+},
+{
+    "answerID": "303",
+    "questionID": "95",
+    "answer": "will have finishing",
+    "chooice": "D"
+},
+{
+    "answerID": "304",
+    "questionID": "96",
+    "answer": "will has been left",
+    "chooice": "A"
+},
+{
+    "answerID": "305",
+    "questionID": "96",
+    "answer": "will had been left",
+    "chooice": "B"
+},
+{
+    "answerID": "306",
+    "questionID": "96",
+    "answer": "will have leaving",
+    "chooice": "C"
+},
+{
+    "answerID": "307",
+    "questionID": "96",
+    "answer": "will have left",
+    "chooice": "D"
+},
+{
+    "answerID": "308",
+    "questionID": "97",
+    "answer": "will have not let",
+    "chooice": "A"
+},
+{
+    "answerID": "309",
+    "questionID": "97",
+    "answer": "will have let",
+    "chooice": "B"
+},
+{
+    "answerID": "310",
+    "questionID": "97",
+    "answer": "would have let",
+    "chooice": "C"
+},
+{
+    "answerID": "311",
+    "questionID": "97",
+    "answer": "will have been let",
+    "chooice": "D"
+},
+{
+    "answerID": "312",
+    "questionID": "98",
+    "answer": "will have been had money",
+    "chooice": "A"
+},
+{
+    "answerID": "313",
+    "questionID": "98",
+    "answer": "will have had money",
+    "chooice": "B"
+},
+{
+    "answerID": "314",
+    "questionID": "98",
+    "answer": "will had had money",
+    "chooice": "C"
+},
+{
+    "answerID": "315",
+    "questionID": "98",
+    "answer": "will have been having money",
+    "chooice": "D"
+},
+{
+    "answerID": "316",
+    "questionID": "99",
+    "answer": "will have locked",
+    "chooice": "A"
+},
+{
+    "answerID": "317",
+    "questionID": "99",
+    "answer": "will have been locking",
+    "chooice": "B"
+},
+{
+    "answerID": "318",
+    "questionID": "99",
+    "answer": "will have been booked",
+    "chooice": "C"
+},
+{
+    "answerID": "319",
+    "questionID": "99",
+    "answer": "will has been locked",
+    "chooice": "D"
+},
+{
+    "answerID": "320",
+    "questionID": "100",
+    "answer": "will had slept",
+    "chooice": "A"
+},
+{
+    "answerID": "321",
+    "questionID": "100",
+    "answer": "will have been slept",
+    "chooice": "B"
+},
+{
+    "answerID": "322",
+    "questionID": "100",
+    "answer": "will has slept",
+    "chooice": "C"
+},
+{
+    "answerID": "323",
+    "questionID": "100",
+    "answer": "will have slept",
+    "chooice": "D"
+},
+{
+    "answerID": "324",
+    "questionID": "101",
+    "answer": "will have run",
+    "chooice": "A"
+},
+{
+    "answerID": "325",
+    "questionID": "101",
+    "answer": "will had run",
+    "chooice": "B"
+},
+{
+    "answerID": "326",
+    "questionID": "101",
+    "answer": "will have been run",
+    "chooice": "C"
+},
+{
+    "answerID": "327",
+    "questionID": "101",
+    "answer": "will has run",
+    "chooice": "D"
+},
+{
+    "answerID": "328",
+    "questionID": "102",
+    "answer": "will have going",
+    "chooice": "A"
+},
+{
+    "answerID": "329",
+    "questionID": "102",
+    "answer": "will had gone",
+    "chooice": "B"
+},
+{
+    "answerID": "330",
+    "questionID": "102",
+    "answer": "will have been gone",
+    "chooice": "C"
+},
+{
+    "answerID": "331",
+    "questionID": "102",
+    "answer": "will have gone",
+    "chooice": "D"
+},
+{
+    "answerID": "332",
+    "questionID": "103",
+    "answer": "will not be working",
+    "chooice": "B"
+},
+{
+    "answerID": "333",
+    "questionID": "103",
+    "answer": "will not being working",
+    "chooice": "A"
+},
+{
+    "answerID": "334",
+    "questionID": "103",
+    "answer": "will not working",
+    "chooice": "C"
+},
+{
+    "answerID": "335",
+    "questionID": "103",
+    "answer": "will not work",
+    "chooice": "D"
+},
+{
+    "answerID": "336",
+    "questionID": "104",
+    "answer": "will waiting",
+    "chooice": "A"
+},
+{
+    "answerID": "337",
+    "questionID": "104",
+    "answer": "will be waiting",
+    "chooice": "B"
+},
+{
+    "answerID": "338",
+    "questionID": "104",
+    "answer": "will being waiting",
+    "chooice": "C"
+},
+{
+    "answerID": "339",
+    "questionID": "104",
+    "answer": "will wait",
+    "chooice": "D"
+},
+{
+    "answerID": "340",
+    "questionID": "105",
+    "answer": "will reading",
+    "chooice": "A"
+},
+{
+    "answerID": "341",
+    "questionID": "105",
+    "answer": "will you being reading",
+    "chooice": "B"
+},
+{
+    "answerID": "342",
+    "questionID": "105",
+    "answer": "Will you be reading",
+    "chooice": "C"
+},
+{
+    "answerID": "343",
+    "questionID": "105",
+    "answer": "will read",
+    "chooice": "D"
+},
+{
+    "answerID": "344",
+    "questionID": "106",
+    "answer": "will be snorkeling",
+    "chooice": "A"
+},
+{
+    "answerID": "345",
+    "questionID": "106",
+    "answer": "will being snorkeling",
+    "chooice": "B"
+},
+{
+    "answerID": "346",
+    "questionID": "106",
+    "answer": "will snorkeling",
+    "chooice": "C"
+},
+{
+    "answerID": "347",
+    "questionID": "106",
+    "answer": "will snorkel",
+    "chooice": "D"
+},
+{
+    "answerID": "348",
+    "questionID": "107",
+    "answer": "will sit",
+    "chooice": "A"
+},
+{
+    "answerID": "349",
+    "questionID": "107",
+    "answer": "will be sitting",
+    "chooice": "B"
+},
+{
+    "answerID": "350",
+    "questionID": "107",
+    "answer": "will being sitting",
+    "chooice": "C"
+},
+{
+    "answerID": "351",
+    "questionID": "107",
+    "answer": "will sitting",
+    "chooice": "D"
+},
+{
+    "answerID": "352",
+    "questionID": "108",
+    "answer": "will sleep",
+    "chooice": "A"
+},
+{
+    "answerID": "353",
+    "questionID": "108",
+    "answer": "will sleeping",
+    "chooice": "B"
+},
+{
+    "answerID": "354",
+    "questionID": "108",
+    "answer": "will be sleeping",
+    "chooice": "C"
+},
+{
+    "answerID": "355",
+    "questionID": "108",
+    "answer": "will being sleeping",
+    "chooice": "D"
+},
+{
+    "answerID": "356",
+    "questionID": "109",
+    "answer": "will watching",
+    "chooice": "A"
+},
+{
+    "answerID": "357",
+    "questionID": "109",
+    "answer": "will not watching",
+    "chooice": "B"
+},
+{
+    "answerID": "358",
+    "questionID": "109",
+    "answer": "will being not watching",
+    "chooice": "C"
+},
+{
+    "answerID": "359",
+    "questionID": "109",
+    "answer": "will be not watching",
+    "chooice": "D"
+},
+{
+    "answerID": "360",
+    "questionID": "110",
+    "answer": "will you working out",
+    "chooice": "A"
+},
+{
+    "answerID": "361",
+    "questionID": "110",
+    "answer": "will you work out",
+    "chooice": "B"
+},
+{
+    "answerID": "362",
+    "questionID": "110",
+    "answer": "will you not be working out",
+    "chooice": "C"
+},
+{
+    "answerID": "363",
+    "questionID": "110",
+    "answer": "Will you be working out",
+    "chooice": "D"
+},
+{
+    "answerID": "364",
+    "questionID": "111",
+    "answer": "will not being staying",
+    "chooice": "A"
+},
+{
+    "answerID": "365",
+    "questionID": "111",
+    "answer": "will being staying",
+    "chooice": "B"
+},
+{
+    "answerID": "366",
+    "questionID": "111",
+    "answer": "will be staying",
+    "chooice": "C"
+},
+{
+    "answerID": "367",
+    "questionID": "111",
+    "answer": "will staying",
+    "chooice": "D"
+},
+{
+    "answerID": "368",
+    "questionID": "112",
+    "answer": "Will you  wake up",
+    "chooice": "A"
+},
+{
+    "answerID": "369",
+    "questionID": "112",
+    "answer": "Will you being waking up",
+    "chooice": "B"
+},
+{
+    "answerID": "370",
+    "questionID": "112",
+    "answer": "Will you be waking up",
+    "chooice": "C"
+},
+{
+    "answerID": "371",
+    "questionID": "112",
+    "answer": "will you waking up",
+    "chooice": "D"
+},
+{
+    "answerID": "372",
+    "questionID": "113",
+    "answer": "will be joining",
+    "chooice": "A"
+},
+{
+    "answerID": "373",
+    "questionID": "113",
+    "answer": "will join",
+    "chooice": "B"
+},
+{
+    "answerID": "374",
+    "questionID": "113",
+    "answer": "will being joining",
+    "chooice": "C"
+},
+{
+    "answerID": "375",
+    "questionID": "113",
+    "answer": "will have joined",
+    "chooice": "D"
+},
+{
+    "answerID": "376",
+    "questionID": "114",
+    "answer": "The Respondent will take magisterial study in future for a particular time",
+    "chooice": "A"
+},
+{
+    "answerID": "377",
+    "questionID": "114",
+    "answer": "The Respondent might take magisterial course",
+    "chooice": "B"
+},
+{
+    "answerID": "378",
+    "questionID": "114",
+    "answer": "The Respondent will take magisterial course for any reason",
+    "chooice": "C"
+},
+{
+    "answerID": "379",
+    "questionID": "114",
+    "answer": "If something bad happen, The Respondent will not take magisterial study",
+    "chooice": "D"
+},
+{
+    "answerID": "383",
+    "questionID": "115",
+    "answer": "eats",
+    "chooice": "A"
+},
+{
+    "answerID": "384",
+    "questionID": "115",
+    "answer": "eaten",
+    "chooice": "B"
+},
+{
+    "answerID": "385",
+    "questionID": "115",
+    "answer": "eat",
+    "chooice": "C"
+},
+{
+    "answerID": "386",
+    "questionID": "115",
+    "answer": "eating",
+    "chooice": "D"
+},
+{
+    "answerID": "387",
+    "questionID": "116",
+    "answer": "The Event \"Watching TV\" was only occurred for a moment ",
+    "chooice": "A"
+},
+{
+    "answerID": "388",
+    "questionID": "116",
+    "answer": "The event \"Watching TV \" was continously",
+    "chooice": "B"
+},
+{
+    "answerID": "389",
+    "questionID": "116",
+    "answer": "The respondent was watching TV for a moment",
+    "chooice": "C"
+},
+{
+    "answerID": "390",
+    "questionID": "116",
+    "answer": "The respondent was watching TC for some reason",
+    "chooice": "D"
+},
+{
+    "answerID": "391",
+    "questionID": "117",
+    "answer": "was",
+    "chooice": "A"
+},
+{
+    "answerID": "392",
+    "questionID": "117",
+    "answer": "used to",
+    "chooice": "B"
+},
+{
+    "answerID": "393",
+    "questionID": "117",
+    "answer": "were",
+    "chooice": "C"
+},
+{
+    "answerID": "394",
+    "questionID": "117",
+    "answer": "is",
+    "chooice": "D"
+},
+{
+    "answerID": "395",
+    "questionID": "118",
+    "answer": "plays",
+    "chooice": "A"
+},
+{
+    "answerID": "396",
+    "questionID": "118",
+    "answer": "playing",
+    "chooice": "B"
+},
+{
+    "answerID": "397",
+    "questionID": "118",
+    "answer": "play",
+    "chooice": "C"
+},
+{
+    "answerID": "398",
+    "questionID": "118",
+    "answer": "played",
+    "chooice": "D"
+},
+{
+    "answerID": "399",
+    "questionID": "119",
+    "answer": "will make this program",
+    "chooice": "A"
+},
+{
+    "answerID": "400",
+    "questionID": "119",
+    "answer": "would make this program",
+    "chooice": "B"
+},
+{
+    "answerID": "401",
+    "questionID": "119",
+    "answer": "would have made this program",
+    "chooice": "C"
+},
+{
+    "answerID": "402",
+    "questionID": "119",
+    "answer": "would have been made this program",
+    "chooice": "D"
+},
+{
+    "answerID": "403",
+    "questionID": "120",
+    "answer": "is",
+    "chooice": "A"
+},
+{
+    "answerID": "404",
+    "questionID": "120",
+    "answer": "are",
+    "chooice": "B"
+},
+{
+    "answerID": "405",
+    "questionID": "120",
+    "answer": "am",
+    "chooice": "C"
+},
+{
+    "answerID": "406",
+    "questionID": "120",
+    "answer": "to be",
+    "chooice": "D"
+},
+{
+    "answerID": "407",
+    "questionID": "121",
+    "answer": "are",
+    "chooice": "A"
+},
+{
+    "answerID": "408",
+    "questionID": "121",
+    "answer": "am",
+    "chooice": "B"
+},
+{
+    "answerID": "409",
+    "questionID": "121",
+    "answer": "be",
+    "chooice": "C"
+},
+{
+    "answerID": "410",
+    "questionID": "121",
+    "answer": "is",
+    "chooice": "D"
+},
+{
+    "answerID": "411",
+    "questionID": "122",
+    "answer": "does know",
+    "chooice": "A"
+},
+{
+    "answerID": "412",
+    "questionID": "122",
+    "answer": "don't know",
+    "chooice": "B"
+},
+{
+    "answerID": "413",
+    "questionID": "122",
+    "answer": "do know",
+    "chooice": "C"
+},
+{
+    "answerID": "414",
+    "questionID": "122",
+    "answer": "didn't know",
+    "chooice": "D"
+},
+{
+    "answerID": "415",
+    "questionID": "123",
+    "answer": "just",
+    "chooice": "A"
+},
+{
+    "answerID": "416",
+    "questionID": "123",
+    "answer": "only",
+    "chooice": "B"
+},
+{
+    "answerID": "417",
+    "questionID": "123",
+    "answer": "any",
+    "chooice": "C"
+},
+{
+    "answerID": "418",
+    "questionID": "123",
+    "answer": "another",
+    "chooice": "D"
+},
+{
+    "answerID": "419",
+    "questionID": "124",
+    "answer": "anyone",
+    "chooice": "A"
+},
+{
+    "answerID": "420",
+    "questionID": "124",
+    "answer": "anything",
+    "chooice": "B"
+},
+{
+    "answerID": "421",
+    "questionID": "124",
+    "answer": "any people",
+    "chooice": "C"
+},
+{
+    "answerID": "422",
+    "questionID": "124",
+    "answer": "any person",
+    "chooice": "D"
+},
+{
+    "answerID": "423",
+    "questionID": "125",
+    "answer": "any people",
+    "chooice": "A"
+},
+{
+    "answerID": "424",
+    "questionID": "125",
+    "answer": "anything",
+    "chooice": "B"
+},
+{
+    "answerID": "425",
+    "questionID": "125",
+    "answer": "anyone",
+    "chooice": "C"
+},
+{
+    "answerID": "426",
+    "questionID": "125",
+    "answer": "any person",
+    "chooice": "D"
+},
+{
+    "answerID": "427",
+    "questionID": "126",
+    "answer": "a few of",
+    "chooice": "A"
+},
+{
+    "answerID": "428",
+    "questionID": "126",
+    "answer": "a little bit of",
+    "chooice": "B"
+},
+{
+    "answerID": "429",
+    "questionID": "126",
+    "answer": "a fewer of ",
+    "chooice": "C"
+},
+{
+    "answerID": "430",
+    "questionID": "126",
+    "answer": "neither of ",
+    "chooice": "D"
+},
+{
+    "answerID": "431",
+    "questionID": "127",
+    "answer": "both",
+    "chooice": "A"
+},
+{
+    "answerID": "432",
+    "questionID": "127",
+    "answer": "neither",
+    "chooice": "B"
+},
+{
+    "answerID": "433",
+    "questionID": "127",
+    "answer": "either",
+    "chooice": "C"
+},
+{
+    "answerID": "434",
+    "questionID": "127",
+    "answer": "several",
+    "chooice": "D"
+},
+{
+    "answerID": "435",
+    "questionID": "128",
+    "answer": "will have",
+    "chooice": "A"
+},
+{
+    "answerID": "436",
+    "questionID": "128",
+    "answer": "would have",
+    "chooice": "B"
+},
+{
+    "answerID": "437",
+    "questionID": "128",
+    "answer": "will has",
+    "chooice": "C"
+},
+{
+    "answerID": "438",
+    "questionID": "128",
+    "answer": "will have been",
+    "chooice": "D"
+},
+{
+    "answerID": "439",
+    "questionID": "129",
+    "answer": "She would really happy for no reason",
+    "chooice": "A"
+},
+{
+    "answerID": "440",
+    "questionID": "129",
+    "answer": "She would really happy if some event happen",
+    "chooice": "B"
+},
+{
+    "answerID": "441",
+    "questionID": "129",
+    "answer": "She will be happy anytime she wants",
+    "chooice": "C"
+},
+{
+    "answerID": "442",
+    "questionID": "129",
+    "answer": "She would be happy for a while",
+    "chooice": "D"
+},
+{
+    "answerID": "443",
+    "questionID": "130",
+    "answer": "You are too annoying",
+    "chooice": "A"
+},
+{
+    "answerID": "444",
+    "questionID": "130",
+    "answer": "You are really glad",
+    "chooice": "B"
+},
+{
+    "answerID": "445",
+    "questionID": "130",
+    "answer": "You're too busy",
+    "chooice": "C"
+},
+{
+    "answerID": "446",
+    "questionID": "130",
+    "answer": "You're hungry",
+    "chooice": "D"
+},
+{
+    "answerID": "447",
+    "questionID": "131",
+    "answer": "broke up",
+    "chooice": "A"
+},
+{
+    "answerID": "448",
+    "questionID": "131",
+    "answer": "break up",
+    "chooice": "B"
+},
+{
+    "answerID": "449",
+    "questionID": "131",
+    "answer": "broken up",
+    "chooice": "C"
+},
+{
+    "answerID": "450",
+    "questionID": "131",
+    "answer": "breaking up",
+    "chooice": "D"
+},
+{
+    "answerID": "451",
+    "questionID": "132",
+    "answer": "finished up",
+    "chooice": "A"
+},
+{
+    "answerID": "452",
+    "questionID": "132",
+    "answer": "completed",
+    "chooice": "B"
+},
+{
+    "answerID": "453",
+    "questionID": "132",
+    "answer": "finished",
+    "chooice": "C"
+},
+{
+    "answerID": "454",
+    "questionID": "132",
+    "answer": "done",
+    "chooice": "D"
+},
+{
+    "answerID": "455",
+    "questionID": "133",
+    "answer": "would have",
+    "chooice": "A"
+},
+{
+    "answerID": "456",
+    "questionID": "133",
+    "answer": "will have been",
+    "chooice": "B"
+},
+{
+    "answerID": "457",
+    "questionID": "133",
+    "answer": "will have",
+    "chooice": "C"
+},
+{
+    "answerID": "458",
+    "questionID": "133",
+    "answer": "will has",
+    "chooice": "D"
+},
+{
+    "answerID": "459",
+    "questionID": "134",
+    "answer": "will not have",
+    "chooice": "A"
+},
+{
+    "answerID": "460",
+    "questionID": "134",
+    "answer": "will have",
+    "chooice": "B"
+},
+{
+    "answerID": "461",
+    "questionID": "134",
+    "answer": "will have been",
+    "chooice": "C"
+},
+{
+    "answerID": "462",
+    "questionID": "134",
+    "answer": "would have",
+    "chooice": "D"
+},
+{
+    "answerID": "463",
+    "questionID": "135",
+    "answer": "done",
+    "chooice": "A"
+},
+{
+    "answerID": "464",
+    "questionID": "135",
+    "answer": "finished",
+    "chooice": "B"
+},
+{
+    "answerID": "465",
+    "questionID": "135",
+    "answer": "completed",
+    "chooice": "C"
+},
+{
+    "answerID": "466",
+    "questionID": "135",
+    "answer": "got completed",
+    "chooice": "D"
+},
+{
+    "answerID": "467",
+    "questionID": "136",
+    "answer": "Tommy and Pandu will be friends forever",
+    "chooice": "A"
+},
+{
+    "answerID": "468",
+    "questionID": "136",
+    "answer": "Tommy and Pandu will be together in next week",
+    "chooice": "B"
+},
+{
+    "answerID": "469",
+    "questionID": "136",
+    "answer": "Tommy and Pandu would be together if Some event was occured",
+    "chooice": "C"
+},
+{
+    "answerID": "470",
+    "questionID": "136",
+    "answer": "Tommy and Pandu is gay",
+    "chooice": "D"
+},
+{
+    "answerID": "471",
+    "questionID": "137",
+    "answer": "He is too hasty",
+    "chooice": "A"
+},
+{
+    "answerID": "472",
+    "questionID": "137",
+    "answer": "He is diligent enough",
+    "chooice": "B"
+},
+{
+    "answerID": "473",
+    "questionID": "137",
+    "answer": "He gets along with someone",
+    "chooice": "C"
+},
+{
+    "answerID": "474",
+    "questionID": "137",
+    "answer": "He is tired",
+    "chooice": "D"
+},
+{
+    "answerID": "475",
+    "questionID": "138",
+    "answer": "will has",
+    "chooice": "A"
+},
+{
+    "answerID": "476",
+    "questionID": "138",
+    "answer": "will have",
+    "chooice": "B"
+},
+{
+    "answerID": "477",
+    "questionID": "138",
+    "answer": "will have been",
+    "chooice": "C"
+},
+{
+    "answerID": "478",
+    "questionID": "138",
+    "answer": "would have",
+    "chooice": "D"
+},
+{
+    "answerID": "479",
+    "questionID": "139",
+    "answer": "will being",
+    "chooice": "A"
+},
+{
+    "answerID": "480",
+    "questionID": "139",
+    "answer": "will be",
+    "chooice": "B"
+},
+{
+    "answerID": "481",
+    "questionID": "139",
+    "answer": "will",
+    "chooice": "C"
+},
+{
+    "answerID": "482",
+    "questionID": "139",
+    "answer": "would",
+    "chooice": "D"
+},
+{
+    "answerID": "483",
+    "questionID": "140",
+    "answer": "will be",
+    "chooice": "A"
+},
+{
+    "answerID": "484",
+    "questionID": "140",
+    "answer": "will ",
+    "chooice": "B"
+},
+{
+    "answerID": "485",
+    "questionID": "140",
+    "answer": "would",
+    "chooice": "C"
+},
+{
+    "answerID": "486",
+    "questionID": "140",
+    "answer": "will being",
+    "chooice": "D"
+},
+{
+    "answerID": "487",
+    "questionID": "141",
+    "answer": "Felix will attend exam for a while",
+    "chooice": "A"
+},
+{
+    "answerID": "488",
+    "questionID": "141",
+    "answer": "Felix will do exam continously",
+    "chooice": "B"
+},
+{
+    "answerID": "489",
+    "questionID": "141",
+    "answer": "Felix will attend exam for a momment",
+    "chooice": "C"
+},
+{
+    "answerID": "490",
+    "questionID": "141",
+    "answer": "Felix attends an exam because of some reason",
+    "chooice": "D"
+},
+{
+    "answerID": "491",
+    "questionID": "142",
+    "answer": "will andina  be going to bali next holiday?",
+    "chooice": "A"
+},
+{
+    "answerID": "492",
+    "questionID": "142",
+    "answer": "will andina going to bali next holiday?",
+    "chooice": "B"
+},
+{
+    "answerID": "493",
+    "questionID": "142",
+    "answer": "will andina go to bali next holiday?",
+    "chooice": "C"
+},
+{
+    "answerID": "494",
+    "questionID": "142",
+    "answer": "will andina gone to bali next holiday?",
+    "chooice": "D"
+},
+{
+    "answerID": "495",
+    "questionID": "143",
+    "answer": "Tommy and Pandu will sleep together in this apartement",
+    "chooice": "A"
+},
+{
+    "answerID": "496",
+    "questionID": "143",
+    "answer": "Tommy and Pandu will slept together in this apartement",
+    "chooice": "B"
+},
+{
+    "answerID": "497",
+    "questionID": "143",
+    "answer": "Tommy and Pandu will sleeping together in this apartement",
+    "chooice": "C"
+},
+{
+    "answerID": "498",
+    "questionID": "143",
+    "answer": "Tommy and Pandu will be sleeping together in this apartement",
+    "chooice": "D"
+},
+{
+    "answerID": "499",
+    "questionID": "144",
+    "answer": "add 'next' after 'Justin Bieber'",
+    "chooice": "A"
+},
+{
+    "answerID": "500",
+    "questionID": "144",
+    "answer": "change in into on",
+    "chooice": "B"
+},
+{
+    "answerID": "501",
+    "questionID": "144",
+    "answer": "add 'be' after will",
+    "chooice": "C"
+},
+{
+    "answerID": "502",
+    "questionID": "144",
+    "answer": "change playing into play",
+    "chooice": "D"
+},
+{
+    "answerID": "503",
+    "questionID": "145",
+    "answer": "The speaker will enjoy party at time",
+    "chooice": "A"
+},
+{
+    "answerID": "504",
+    "questionID": "145",
+    "answer": "The speaker is not enjoying party",
+    "chooice": "B"
+},
+{
+    "answerID": "505",
+    "questionID": "145",
+    "answer": "The speaker will not enjoy party",
+    "chooice": "C"
+},
+{
+    "answerID": "506",
+    "questionID": "145",
+    "answer": "The speaker is enjoying party",
+    "chooice": "D"
+},
+{
+    "answerID": "507",
+    "questionID": "146",
+    "answer": "Andi will not be studying english for next semester",
+    "chooice": "A"
+},
+{
+    "answerID": "508",
+    "questionID": "146",
+    "answer": "Andi will be notstudying english for next semester",
+    "chooice": "B"
+},
+{
+    "answerID": "509",
+    "questionID": "146",
+    "answer": "Andi will not studying english for next semester",
+    "chooice": "C"
+},
+{
+    "answerID": "510",
+    "questionID": "146",
+    "answer": "Andi will studying english for next semester",
+    "chooice": "D"
+},
+{
+    "answerID": "511",
+    "questionID": "147",
+    "answer": "Pandu lecture is not Alvina",
+    "chooice": "A"
+},
+{
+    "answerID": "512",
+    "questionID": "147",
+    "answer": "Pandu  enjoys his class ",
+    "chooice": "B"
+},
+{
+    "answerID": "513",
+    "questionID": "147",
+    "answer": "Pandu will be enjoying his class",
+    "chooice": "C"
+},
+{
+    "answerID": "514",
+    "questionID": "147",
+    "answer": "Pandu hate his class",
+    "chooice": "D"
+},
+{
+    "answerID": "515",
+    "questionID": "148",
+    "answer": " Will",
+    "chooice": "A"
+},
+{
+    "answerID": "516",
+    "questionID": "148",
+    "answer": "Wonâ€™t",
+    "chooice": "B"
+},
+{
+    "answerID": "517",
+    "questionID": "148",
+    "answer": "Will not",
+    "chooice": "C"
+},
+{
+    "answerID": "518",
+    "questionID": "148",
+    "answer": "did",
+    "chooice": "D"
+},
+{
+    "answerID": "519",
+    "questionID": "149",
+    "answer": "Will ",
+    "chooice": "A"
+},
+{
+    "answerID": "520",
+    "questionID": "149",
+    "answer": "Wonâ€™t",
+    "chooice": "B"
+},
+{
+    "answerID": "521",
+    "questionID": "149",
+    "answer": "Do ",
+    "chooice": "C"
+},
+{
+    "answerID": "522",
+    "questionID": "149",
+    "answer": "Does",
+    "chooice": "D"
+},
+{
+    "answerID": "523",
+    "questionID": "150",
+    "answer": " Will",
+    "chooice": "A"
+},
+{
+    "answerID": "524",
+    "questionID": "150",
+    "answer": "Wonâ€™t",
+    "chooice": "B"
+},
+{
+    "answerID": "525",
+    "questionID": "150",
+    "answer": " can",
+    "chooice": "C"
+},
+{
+    "answerID": "526",
+    "questionID": "150",
+    "answer": " did",
+    "chooice": "D"
+},
+{
+    "answerID": "527",
+    "questionID": "151",
+    "answer": "can",
+    "chooice": "A"
+},
+{
+    "answerID": "528",
+    "questionID": "151",
+    "answer": "Will ",
+    "chooice": "B"
+},
+{
+    "answerID": "529",
+    "questionID": "151",
+    "answer": "Will not ",
+    "chooice": "C"
+},
+{
+    "answerID": "530",
+    "questionID": "151",
+    "answer": "May",
+    "chooice": "D"
+},
+{
+    "answerID": "531",
+    "questionID": "152",
+    "answer": " is",
+    "chooice": "A"
+},
+{
+    "answerID": "532",
+    "questionID": "152",
+    "answer": "Will",
+    "chooice": "B"
+},
+{
+    "answerID": "533",
+    "questionID": "152",
+    "answer": "Wonâ€™t",
+    "chooice": "C"
+},
+{
+    "answerID": "534",
+    "questionID": "152",
+    "answer": "Can",
+    "chooice": "D"
+},
+{
+    "answerID": "535",
+    "questionID": "153",
+    "answer": "Will invite",
+    "chooice": "A"
+},
+{
+    "answerID": "536",
+    "questionID": "153",
+    "answer": "Invites",
+    "chooice": "B"
+},
+{
+    "answerID": "537",
+    "questionID": "153",
+    "answer": "Invited ",
+    "chooice": "C"
+},
+{
+    "answerID": "538",
+    "questionID": "153",
+    "answer": "Invitation",
+    "chooice": "D"
+},
+{
+    "answerID": "539",
+    "questionID": "154",
+    "answer": "Was preparing ",
+    "chooice": "A"
+},
+{
+    "answerID": "540",
+    "questionID": "154",
+    "answer": "Prepared ",
+    "chooice": "B"
+},
+{
+    "answerID": "541",
+    "questionID": "154",
+    "answer": "Shall prepare ",
+    "chooice": "C"
+},
+{
+    "answerID": "542",
+    "questionID": "154",
+    "answer": "Prepare",
+    "chooice": "D"
+},
+{
+    "answerID": "543",
+    "questionID": "155",
+    "answer": "Participates",
+    "chooice": "A"
+},
+{
+    "answerID": "544",
+    "questionID": "155",
+    "answer": "Participate",
+    "chooice": "B"
+},
+{
+    "answerID": "545",
+    "questionID": "155",
+    "answer": "Patcipation",
+    "chooice": "C"
+},
+{
+    "answerID": "546",
+    "questionID": "155",
+    "answer": "Participated",
+    "chooice": "D"
+},
+{
+    "answerID": "547",
+    "questionID": "156",
+    "answer": "Will",
+    "chooice": "A"
+},
+{
+    "answerID": "548",
+    "questionID": "156",
+    "answer": "The ",
+    "chooice": "B"
+},
+{
+    "answerID": "549",
+    "questionID": "156",
+    "answer": "Coming ",
+    "chooice": "C"
+},
+{
+    "answerID": "550",
+    "questionID": "156",
+    "answer": " Going to",
+    "chooice": "D"
+},
+{
+    "answerID": "551",
+    "questionID": "157",
+    "answer": "Is ",
+    "chooice": "A"
+},
+{
+    "answerID": "552",
+    "questionID": "157",
+    "answer": "Will ",
+    "chooice": "B"
+},
+{
+    "answerID": "553",
+    "questionID": "157",
+    "answer": "Does ",
+    "chooice": "C"
+},
+{
+    "answerID": "554",
+    "questionID": "157",
+    "answer": "Was",
+    "chooice": "D"
+},
+{
+    "answerID": "555",
+    "questionID": "158",
+    "answer": "Arresting ",
+    "chooice": "A"
+},
+{
+    "answerID": "556",
+    "questionID": "158",
+    "answer": "Arrest",
+    "chooice": "B"
+},
+{
+    "answerID": "557",
+    "questionID": "158",
+    "answer": "Arrested ",
+    "chooice": "C"
+},
+{
+    "answerID": "558",
+    "questionID": "158",
+    "answer": "To arrest",
+    "chooice": "D"
+},
+{
+    "answerID": "559",
+    "questionID": "159",
+    "answer": "Tell ",
+    "chooice": "A"
+},
+{
+    "answerID": "560",
+    "questionID": "159",
+    "answer": "Telling ",
+    "chooice": "B"
+},
+{
+    "answerID": "561",
+    "questionID": "159",
+    "answer": "Tells",
+    "chooice": "C"
+},
+{
+    "answerID": "562",
+    "questionID": "159",
+    "answer": "To tell",
+    "chooice": "D"
+},
+{
+    "answerID": "563",
+    "questionID": "160",
+    "answer": "Trains ",
+    "chooice": "A"
+},
+{
+    "answerID": "564",
+    "questionID": "160",
+    "answer": "Trained ",
+    "chooice": "B"
+},
+{
+    "answerID": "565",
+    "questionID": "160",
+    "answer": "Will train ",
+    "chooice": "C"
+},
+{
+    "answerID": "566",
+    "questionID": "160",
+    "answer": "Have joined",
+    "chooice": "D"
+},
+{
+    "answerID": "567",
+    "questionID": "161",
+    "answer": "Join ",
+    "chooice": "A"
+},
+{
+    "answerID": "568",
+    "questionID": "161",
+    "answer": "Joined ",
+    "chooice": "B"
+},
+{
+    "answerID": "569",
+    "questionID": "161",
+    "answer": "Will join ",
+    "chooice": "C"
+},
+{
+    "answerID": "570",
+    "questionID": "161",
+    "answer": "Have joined",
+    "chooice": "D"
+},
+{
+    "answerID": "571",
+    "questionID": "162",
+    "answer": "To be exhibiting",
+    "chooice": "A"
+},
+{
+    "answerID": "572",
+    "questionID": "162",
+    "answer": "To exhibit",
+    "chooice": "B"
+},
+{
+    "answerID": "573",
+    "questionID": "162",
+    "answer": "Will exhibit ",
+    "chooice": "C"
+},
+{
+    "answerID": "574",
+    "questionID": "162",
+    "answer": "Be exhibiting",
+    "chooice": "D"
+},
+{
+    "answerID": "575",
+    "questionID": "163",
+    "answer": " Will have visited ",
+    "chooice": "A"
+},
+{
+    "answerID": "576",
+    "questionID": "163",
+    "answer": "Have visited ",
+    "chooice": "B"
+},
+{
+    "answerID": "577",
+    "questionID": "163",
+    "answer": "Visited ",
+    "chooice": "C"
+},
+{
+    "answerID": "578",
+    "questionID": "163",
+    "answer": "Will visit",
+    "chooice": "D"
+},
+{
+    "answerID": "579",
+    "questionID": "164",
+    "answer": "Told ",
+    "chooice": "A"
+},
+{
+    "answerID": "580",
+    "questionID": "164",
+    "answer": "Will tell ",
+    "chooice": "B"
+},
+{
+    "answerID": "581",
+    "questionID": "164",
+    "answer": "Be telling him ",
+    "chooice": "C"
+},
+{
+    "answerID": "582",
+    "questionID": "164",
+    "answer": "Tell",
+    "chooice": "D"
+},
+{
+    "answerID": "583",
+    "questionID": "165",
+    "answer": "Buying ",
+    "chooice": "A"
+},
+{
+    "answerID": "584",
+    "questionID": "165",
+    "answer": "To buy ",
+    "chooice": "B"
+},
+{
+    "answerID": "585",
+    "questionID": "165",
+    "answer": "Buy ",
+    "chooice": "C"
+},
+{
+    "answerID": "586",
+    "questionID": "165",
+    "answer": "Bought",
+    "chooice": "D"
+},
+{
+    "answerID": "587",
+    "questionID": "166",
+    "answer": "Will be",
+    "chooice": "A"
+},
+{
+    "answerID": "588",
+    "questionID": "166",
+    "answer": "Will",
+    "chooice": "B"
+},
+{
+    "answerID": "589",
+    "questionID": "166",
+    "answer": "Going to ",
+    "chooice": "C"
+},
+{
+    "answerID": "590",
+    "questionID": "166",
+    "answer": "Are",
+    "chooice": "D"
+},
+{
+    "answerID": "591",
+    "questionID": "167",
+    "answer": "Will be ",
+    "chooice": "A"
+},
+{
+    "answerID": "592",
+    "questionID": "167",
+    "answer": "Will ",
+    "chooice": "B"
+},
+{
+    "answerID": "593",
+    "questionID": "167",
+    "answer": "Going to ",
+    "chooice": "C"
+},
+{
+    "answerID": "594",
+    "questionID": "167",
+    "answer": "Am",
+    "chooice": "D"
+},
+{
+    "answerID": "595",
+    "questionID": "168",
+    "answer": "Will ",
+    "chooice": "A"
+},
+{
+    "answerID": "596",
+    "questionID": "168",
+    "answer": "Wonâ€™t ",
+    "chooice": "B"
+},
+{
+    "answerID": "597",
+    "questionID": "168",
+    "answer": "Will not ",
+    "chooice": "C"
+},
+{
+    "answerID": "598",
+    "questionID": "168",
+    "answer": "Do",
+    "chooice": "D"
+},
+{
+    "answerID": "599",
+    "questionID": "169",
+    "answer": "Next Morning until will You stay here ",
+    "chooice": "A"
+},
+{
+    "answerID": "600",
+    "questionID": "169",
+    "answer": "Will you stay here until next morning",
+    "chooice": "B"
+},
+{
+    "answerID": "601",
+    "questionID": "169",
+    "answer": "You will stay here until next morning ",
+    "chooice": "C"
+},
+{
+    "answerID": "602",
+    "questionID": "169",
+    "answer": "You until next morning will stay here",
+    "chooice": "D"
+},
+{
+    "answerID": "603",
+    "questionID": "170",
+    "answer": "be gamer someday a professional I will      ",
+    "chooice": "A"
+},
+{
+    "answerID": "604",
+    "questionID": "170",
+    "answer": "I will gamer someday be a professional       ",
+    "chooice": "B"
+},
+{
+    "answerID": "605",
+    "questionID": "170",
+    "answer": "I will be a professional gamer someday      ",
+    "chooice": "C"
+},
+{
+    "answerID": "606",
+    "questionID": "170",
+    "answer": " someday will be I professional a gamer",
+    "chooice": "D"
+},
+{
+    "answerID": "607",
+    "questionID": "171",
+    "answer": "This game will uninstall I because this game hate I so much      ",
+    "chooice": "A"
+},
+{
+    "answerID": "608",
+    "questionID": "171",
+    "answer": "uninstall I because this game will hate this game so I much      c. This game I will uninstall I thi",
+    "chooice": "B"
+},
+{
+    "answerID": "609",
+    "questionID": "171",
+    "answer": "This game I will uninstall I this game so much hate because     ",
+    "chooice": "C"
+},
+{
+    "answerID": "610",
+    "questionID": "171",
+    "answer": "I will uninstall this game because I hate this game so much ",
+    "chooice": "D"
+},
+{
+    "answerID": "611",
+    "questionID": "172",
+    "answer": "Will ",
+    "chooice": "A"
+},
+{
+    "answerID": "612",
+    "questionID": "172",
+    "answer": "Wonâ€™t ",
+    "chooice": "B"
+},
+{
+    "answerID": "613",
+    "questionID": "172",
+    "answer": "Will not",
+    "chooice": "C"
+},
+{
+    "answerID": "614",
+    "questionID": "172",
+    "answer": "did",
+    "chooice": "D"
+},
+{
+    "answerID": "615",
+    "questionID": "173",
+    "answer": "Will",
+    "chooice": "A"
+},
+{
+    "answerID": "616",
+    "questionID": "173",
+    "answer": "Wonâ€™t ",
+    "chooice": "B"
+},
+{
+    "answerID": "617",
+    "questionID": "173",
+    "answer": "Do ",
+    "chooice": "C"
+},
+{
+    "answerID": "618",
+    "questionID": "173",
+    "answer": "Does",
+    "chooice": "D"
+},
+{
+    "answerID": "619",
+    "questionID": "174",
+    "answer": "Will ",
+    "chooice": "A"
+},
+{
+    "answerID": "620",
+    "questionID": "174",
+    "answer": "Wonâ€™t",
+    "chooice": "B"
+},
+{
+    "answerID": "621",
+    "questionID": "174",
+    "answer": "can ",
+    "chooice": "C"
+},
+{
+    "answerID": "622",
+    "questionID": "174",
+    "answer": "did",
+    "chooice": "D"
+},
+{
+    "answerID": "623",
+    "questionID": "175",
+    "answer": " can",
+    "chooice": "A"
+},
+{
+    "answerID": "624",
+    "questionID": "175",
+    "answer": "Will",
+    "chooice": "B"
+},
+{
+    "answerID": "625",
+    "questionID": "175",
+    "answer": "Will not ",
+    "chooice": "C"
+},
+{
+    "answerID": "626",
+    "questionID": "175",
+    "answer": "May",
+    "chooice": "D"
+},
+{
+    "answerID": "627",
+    "questionID": "176",
+    "answer": "is",
+    "chooice": "A"
+},
+{
+    "answerID": "628",
+    "questionID": "176",
+    "answer": "Will",
+    "chooice": "B"
+},
+{
+    "answerID": "629",
+    "questionID": "176",
+    "answer": "Wonâ€™t ",
+    "chooice": "C"
+},
+{
+    "answerID": "630",
+    "questionID": "176",
+    "answer": "Can",
+    "chooice": "D"
+},
+{
+    "answerID": "631",
+    "questionID": "177",
+    "answer": "for  create sense, clarity and stress in sentences",
+    "chooice": "A"
+},
+{
+    "answerID": "632",
+    "questionID": "177",
+    "answer": "for make sentence become clear",
+    "chooice": "B"
+},
+{
+    "answerID": "633",
+    "questionID": "177",
+    "answer": "for formality",
+    "chooice": "C"
+},
+{
+    "answerID": "634",
+    "questionID": "177",
+    "answer": "because it the rule",
+    "chooice": "D"
+},
+{
+    "answerID": "635",
+    "questionID": "178",
+    "answer": "Yesterday, I went to surabaya but i canceled it because my car was broken.",
+    "chooice": "A"
+},
+{
+    "answerID": "636",
+    "questionID": "178",
+    "answer": "Yesterday i went to surabaya but, i canceled it because my car was broken.",
+    "chooice": "B"
+},
+{
+    "answerID": "637",
+    "questionID": "178",
+    "answer": "Yesterday i went to surabaya but i canceled it, because my car was broken.",
+    "chooice": "C"
+},
+{
+    "answerID": "638",
+    "questionID": "178",
+    "answer": "Yesterday i went to surabaya but i canceled it because, my car was broken.",
+    "chooice": "D"
+},
+{
+    "answerID": "639",
+    "questionID": "179",
+    "answer": "Jonas said \"I forgot your pencil case \"",
+    "chooice": "A"
+},
+{
+    "answerID": "640",
+    "questionID": "179",
+    "answer": "Jonas said \"I forget your pencil case \"",
+    "chooice": "B"
+},
+{
+    "answerID": "641",
+    "questionID": "179",
+    "answer": "Jonas said \"You forgot your pencil case \"",
+    "chooice": "C"
+},
+{
+    "answerID": "642",
+    "questionID": "179",
+    "answer": "Jonas said \"You forget your pencil case \"",
+    "chooice": "D"
+},
+{
+    "answerID": "643",
+    "questionID": "180",
+    "answer": "Tommy and Billy eat ramen, sushi, and meat in sushi tei",
+    "chooice": "A"
+},
+{
+    "answerID": "644",
+    "questionID": "180",
+    "answer": "Tommy and Billy eat's ramen, sushi, and meat in sushi tei",
+    "chooice": "B"
+},
+{
+    "answerID": "645",
+    "questionID": "180",
+    "answer": "Tommy and Billy eat ramen, sushi, and meat's in sushi tei",
+    "chooice": "C"
+},
+{
+    "answerID": "646",
+    "questionID": "180",
+    "answer": "Tommy and Billy eat ramen, sushi, and. meat in sushi tei",
+    "chooice": "D"
+},
+{
+    "answerID": "647",
+    "questionID": "181",
+    "answer": "We will come to your country in Friday. at 4 am",
+    "chooice": "A"
+},
+{
+    "answerID": "648",
+    "questionID": "181",
+    "answer": "Tommy is going to bali in 3 pm..",
+    "chooice": "B"
+},
+{
+    "answerID": "649",
+    "questionID": "181",
+    "answer": "What do you say?",
+    "chooice": "C"
+},
+{
+    "answerID": "650",
+    "questionID": "181",
+    "answer": "I dont' mean to do that",
+    "chooice": "D"
+},
+{
+    "answerID": "651",
+    "questionID": "182",
+    "answer": "You don't understand what i mean. do you?",
+    "chooice": "A"
+},
+{
+    "answerID": "652",
+    "questionID": "182",
+    "answer": "You don't understand what i mean, do you?",
+    "chooice": "B"
+},
+{
+    "answerID": "653",
+    "questionID": "182",
+    "answer": "You don't understand what i mean. do you!",
+    "chooice": "C"
+},
+{
+    "answerID": "654",
+    "questionID": "182",
+    "answer": "You don't understand what i mean, do you!",
+    "chooice": "D"
+},
+{
+    "answerID": "655",
+    "questionID": "183",
+    "answer": "Hearing his cakwe is being stolen. Tommy goes to his home immediately .",
+    "chooice": "A"
+},
+{
+    "answerID": "656",
+    "questionID": "183",
+    "answer": "Hearing his cakwe is being stolen. Tommy goes to his home immediately ?",
+    "chooice": "B"
+},
+{
+    "answerID": "657",
+    "questionID": "183",
+    "answer": "Hearing his cakwe is being stolen, Tommy goes to his home immediately ?",
+    "chooice": "C"
+},
+{
+    "answerID": "658",
+    "questionID": "183",
+    "answer": "Hearing his cakwe is being stolen, Tommy goes to his home imeadiately",
+    "chooice": "D"
+},
+{
+    "answerID": "659",
+    "questionID": "184",
+    "answer": "Please be advised?",
+    "chooice": "A"
+},
+{
+    "answerID": "660",
+    "questionID": "184",
+    "answer": "Correct this answer, right now!",
+    "chooice": "B"
+},
+{
+    "answerID": "661",
+    "questionID": "184",
+    "answer": "Tommy???",
+    "chooice": "C"
+},
+{
+    "answerID": "662",
+    "questionID": "184",
+    "answer": "next week. i will go to Bandung",
+    "chooice": "D"
+},
+{
+    "answerID": "663",
+    "questionID": "185",
+    "answer": "I can't see Tim's car, there must have been an accident. \t",
+    "chooice": "A"
+},
+{
+    "answerID": "664",
+    "questionID": "185",
+    "answer": "I cant see Tim's car; there must have been an accident. ",
+    "chooice": "B"
+},
+{
+    "answerID": "665",
+    "questionID": "185",
+    "answer": "I can't see Tim's car there must have been an accident. \t",
+    "chooice": "C"
+},
+{
+    "answerID": "666",
+    "questionID": "185",
+    "answer": "I can't see Tim's car; there must have been an accident.",
+    "chooice": "D"
+},
+{
+    "answerID": "667",
+    "questionID": "186",
+    "answer": "We decided to visit: Spain, Greece, Portugal and Italy's mountains. \t",
+    "chooice": "A"
+},
+{
+    "answerID": "668",
+    "questionID": "186",
+    "answer": "We decided to visit Spain, Greece, Portugal and Italys mountains. \t",
+    "chooice": "B"
+},
+{
+    "answerID": "669",
+    "questionID": "186",
+    "answer": "We decided to visit Spain, Greece, Portugal and Italy's mountains. \t",
+    "chooice": "C"
+},
+{
+    "answerID": "670",
+    "questionID": "186",
+    "answer": "We decided to visit Spain Greece Portugal and Italy's mountains.",
+    "chooice": "D"
+},
+{
+    "answerID": "671",
+    "questionID": "187",
+    "answer": "Paul's neighbours were terrible; so his brother's friends went round to have a word. \t",
+    "chooice": "A"
+},
+{
+    "answerID": "672",
+    "questionID": "187",
+    "answer": "Paul's neighbours were terrible: so his brother's friends went round to have a word. \t",
+    "chooice": "B"
+},
+{
+    "answerID": "673",
+    "questionID": "187",
+    "answer": "Paul's neighbours were terrible, so his brother's friends went round to have a word. \t",
+    "chooice": "C"
+},
+{
+    "answerID": "674",
+    "questionID": "187",
+    "answer": "Paul's neighbours were terrible so his brother's friends went round to have a word.",
+    "chooice": "D"
+},
+{
+    "answerID": "675",
+    "questionID": "188",
+    "answer": "Sarah's uncle's car was found without its wheels in that old derelict warehouse. \t",
+    "chooice": "A"
+},
+{
+    "answerID": "676",
+    "questionID": "188",
+    "answer": "Sarah's uncle's car was found without its wheels in that old, derelict warehouse. \t",
+    "chooice": "B"
+},
+{
+    "answerID": "677",
+    "questionID": "188",
+    "answer": "Sarahs uncles car was found without its wheels in that old, derelict warehouse. \t",
+    "chooice": "C"
+},
+{
+    "answerID": "678",
+    "questionID": "188",
+    "answer": "Sarah's uncle's car was found without it's wheels in that old, derelict warehouse.",
+    "chooice": "D"
+},
+{
+    "answerID": "679",
+    "questionID": "189",
+    "answer": "After stealing Tims car, the thief lost his way and ended up the chief constable's garage. \t",
+    "chooice": "A"
+},
+{
+    "answerID": "680",
+    "questionID": "189",
+    "answer": "After stealing Tim's car the thief lost his way and ended up the chief constable's garage. ",
+    "chooice": "B"
+},
+{
+    "answerID": "681",
+    "questionID": "189",
+    "answer": "After stealing Tim's car, the thief lost his way and ended up the chief constable's garage. \t",
+    "chooice": "C"
+},
+{
+    "answerID": "682",
+    "questionID": "189",
+    "answer": "After stealing Tim's car, the thief lost his' way and ended up the chief constable's garage.",
+    "chooice": "D"
+},
+{
+    "answerID": "683",
+    "questionID": "190",
+    "answer": "We decided to visit: Spain, Greece, Portugal and Italy's mountains. \t",
+    "chooice": "A"
+},
+{
+    "answerID": "684",
+    "questionID": "190",
+    "answer": "We decided to visit Spain, Greece, Portugal and Italys mountains. \t",
+    "chooice": "B"
+},
+{
+    "answerID": "685",
+    "questionID": "190",
+    "answer": "We decided to visit Spain, Greece, Portugal and Italy's mountains. \t",
+    "chooice": "C"
+},
+{
+    "answerID": "686",
+    "questionID": "190",
+    "answer": "We decided to visit Spain Greece Portugal and Italy's mountains.",
+    "chooice": "D"
+},
+{
+    "answerID": "687",
+    "questionID": "191",
+    "answer": "Riku is dog (animal)",
+    "chooice": "A"
+},
+{
+    "answerID": "688",
+    "questionID": "191",
+    "answer": "Goni is NASA ( National Aeronautics and Space Administration) member",
+    "chooice": "B"
+},
+{
+    "answerID": "689",
+    "questionID": "191",
+    "answer": "I will not (follow) you",
+    "chooice": "C"
+},
+{
+    "answerID": "690",
+    "questionID": "191",
+    "answer": "yes, i' m gonna be father(mother)",
+    "chooice": "D"
+},
+{
+    "answerID": "691",
+    "questionID": "192",
+    "answer": "Joni will go to china (name of languange [the manner how human speak])",
+    "chooice": "A"
+},
+{
+    "answerID": "692",
+    "questionID": "192",
+    "answer": "Andi is going to study hard today [study harder than before]",
+    "chooice": "B"
+},
+{
+    "answerID": "693",
+    "questionID": "192",
+    "answer": "Tina is going to Bali (city in Indonesia [country])",
+    "chooice": "C"
+},
+{
+    "answerID": "694",
+    "questionID": "192",
+    "answer": "Pandu will dispose this thing (ipod [music player made by apple])",
+    "chooice": "D"
+},
+{
+    "answerID": "695",
+    "questionID": "193",
+    "answer": "We were very happy to see them (all of them).",
+    "chooice": "A"
+},
+{
+    "answerID": "696",
+    "questionID": "193",
+    "answer": "We were very happy to see them [all of them].",
+    "chooice": "B"
+},
+{
+    "answerID": "697",
+    "questionID": "193",
+    "answer": "We were very happy, to see them (all of them[third person single]).",
+    "chooice": "C"
+},
+{
+    "answerID": "698",
+    "questionID": "193",
+    "answer": "We were very happy to see them (all of them).",
+    "chooice": "D"
+},
+{
+    "answerID": "699",
+    "questionID": "194",
+    "answer": "She drove 60 (miles per hour) on the highway to town.",
+    "chooice": "A"
+},
+{
+    "answerID": "700",
+    "questionID": "194",
+    "answer": "She drove 60 [miles per hour] on the highway to town,",
+    "chooice": "B"
+},
+{
+    "answerID": "701",
+    "questionID": "194",
+    "answer": "She drove 60 [miles per hour] on the highway to town:",
+    "chooice": "C"
+},
+{
+    "answerID": "702",
+    "questionID": "194",
+    "answer": "She drove 60 [miles per hour] on the highway to town.",
+    "chooice": "D"
+},
+{
+    "answerID": "703",
+    "questionID": "195",
+    "answer": "Did she take her book ?",
+    "chooice": "A"
+},
+{
+    "answerID": "704",
+    "questionID": "195",
+    "answer": "im gonna be free,",
+    "chooice": "B"
+},
+{
+    "answerID": "705",
+    "questionID": "195",
+    "answer": "do the best?",
+    "chooice": "C"
+},
+{
+    "answerID": "706",
+    "questionID": "195",
+    "answer": "i don\"t understand what you said",
+    "chooice": "D"
+},
+{
+    "answerID": "707",
+    "questionID": "196",
+    "answer": "Jenny (the girl that lives in the yellow house) invited you to her birthday party next week.",
+    "chooice": "A"
+},
+{
+    "answerID": "708",
+    "questionID": "196",
+    "answer": "Yani [The neighbors ] will go abroad next week",
+    "chooice": "B"
+},
+{
+    "answerID": "709",
+    "questionID": "196",
+    "answer": "She drove 60 (miles per hour) on the highway to town.",
+    "chooice": "C"
+},
+{
+    "answerID": "710",
+    "questionID": "196",
+    "answer": "she gonna to bali [city]",
+    "chooice": "D"
+},
+{
+    "answerID": "711",
+    "questionID": "197",
+    "answer": "Gina will eat banana, apple, orange and grape",
+    "chooice": "A"
+},
+{
+    "answerID": "712",
+    "questionID": "197",
+    "answer": "Gina will eat banana, apple, orange, and grape",
+    "chooice": "B"
+},
+{
+    "answerID": "713",
+    "questionID": "197",
+    "answer": "Gina will eat's banana, apple, orange and grape",
+    "chooice": "C"
+},
+{
+    "answerID": "714",
+    "questionID": "197",
+    "answer": "Gina will eat banana, apple, orange and, grape",
+    "chooice": "D"
+}
+]
+
+}
+]
