@@ -3,7 +3,7 @@ class Controller{
 
     index(req,res){
         Courses.findAll({
-            includes:{questions}
+            includes:{Questions}
         })
         .then(data=>{
             res.send(data);
