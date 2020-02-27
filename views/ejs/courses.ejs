@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Senang-Senang</title>
+    <%-include("partial/source-head")%>
+</head>
+<body>
+    <%-include("partial/navbar",{session:session})%>
+    <div class="container course-hehe">
+        <div class="row">
+            <div class="col-sm-2">
+
+            </div>
+            <div class="col-sm-10">
+                <% courses.forEach(course=>{%>
+                <div class="row">
+                    <div class="col-sm-2">
+                        <a href="/course/detail/<%=course.id%>">
+                            <i class="ion-ios-people-outline icon-courses"></i>
+                        </a>
+                    </div>
+                    <div class="col-sm-10">
+                        <a href="/course/detail/<%=course.id%>">
+                            <h2><%=course.name%></h2>
+                        </a>
+                        <p>
+
+                            <%-course.summary || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem culpa ad sint ab minima doloribus at impedit. Natus omnis officia facilis architecto animi. Fugiat maxime laudantium atque, repudiandae eos officia?' %>
+                            
+                        </p>
+                    </div>
+                </div>
+                <%})%>
+
+            </div>
+        </div>
+
+
+    </div>
+    <%-include("partial/footer")%>
+</body>
+</html>

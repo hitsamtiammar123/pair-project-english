@@ -4,11 +4,11 @@
         <a class="navbar-brand" href="#">Inggris senang-senang</a>
       </div>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/courses">View All Course</a></li>
+        <li><a href="/course/all">Lihat semua pelatihan</a></li>
         <% if(!session.user){%>
-          <li><a href="#" data-toggle="modal" data-target="#login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          <li><a href="#" data-toggle="modal" data-target="#login"><span class="glyphicon glyphicon-log-in"></span> Masuk</a></li>
         <%}else{%>
-          <li><a href="#" onclick="logout()"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+          <li><a href="#" onclick="logout()"><span class="glyphicon glyphicon-log-out"></span>Keluar</a></li>
         <%}%>
       </ul>
     </div>
