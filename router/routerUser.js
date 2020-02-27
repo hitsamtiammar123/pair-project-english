@@ -8,5 +8,6 @@ router.post('/create',controller.create);
 router.post('/login',controller.login);
 router.post('/logout',controller.logout);
 router.get('/course',controller.myCourses);
+router.get('/course/learn/:courseId',controller.learn);
 
 module.exports=router;

@@ -13,10 +13,14 @@
             <% courses.forEach(course=>{%>
             <div class="col-sm-6 course-content">
                 <div class="col-sm-12 text-center">
-                    <i class="ion-ios-people-outline icon-courses color-green"></i>
+                    <a href="/user/course/learn/<%=course.id%>">
+                        <i class="ion-ios-people-outline icon-courses color-green"></i>
+                    </a>
                 </div>
                 <div class="col-sm-12">
-                   <h2><%=course.name%></h2>
+                    <a href="/user/course/learn/<%=course.id%>">
+                        <h2><%=course.name%></h2>
+                    </a>
                    <p>
                        <%=course.summary_text%>
                    </p>

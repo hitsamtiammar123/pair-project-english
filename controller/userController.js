@@ -62,5 +62,9 @@ class userController{
        
     }
 
+    learn(req,res){
+        res.render('ejs/course-learn',{session:req.session});
+    }
+
 }
 module.exports=userController;

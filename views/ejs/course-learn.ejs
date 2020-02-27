@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Senang-Senang</title>
+    <%-include("partial/source-head")%>
+</head>
+<body>
+    <%-include("partial/navbar",{session:session})%>
+    
+    <div class="container course-hehe">
+        <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#detail">Detail</a></li>
+            <li><a data-toggle="tab" href="#quiz">Quiz</a></li>
+          </ul>
+        
+          <div class="tab-content">
+            <div id="detail" class="tab-pane fade in active">
+              <h3>HOME</h3>
+              <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore 
+                  et dolore magna aliqua.
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione repellendus ullam animi aperiam dolores facere ipsum, recusandae fuga cum harum assumenda earum quae. Minus, enim? Unde distinctio itaque tempore aliquam.
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum cum facere deserunt fugiat odio non voluptate, dicta tenetur, molestias voluptatum, eos magnam impedit quaerat aspernatur eveniet accusantium obcaecati ab maiores.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, suscipit totam atque iste minima blanditiis, quos, doloremque expedita sapiente eum itaque repellat. Nemo commodi porro dolorum adipisci sapiente quo doloribus?
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim ducimus cumque illum, ipsam, quos repellendus voluptatibus non officiis laudantium natus sapiente aliquam assumenda provident atque id dolorum quis, ipsa qui.
+                </p>
+            </div>
+            <div id="quiz" class="tab-pane fade">
+                <p class="mt-5">
+                    <button class="btn btn-success btn-block">Mulai Quiz</button>
+                </p>
+            </div>
+
+          </div>
+    </div>
+
+    <%-include("partial/footer")%>
+</body>
+</html>
