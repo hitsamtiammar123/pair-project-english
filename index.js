@@ -12,7 +12,7 @@ app.use(session({
     secret: 'hehehehe',
     resave: true,
     saveUninitialized: true,
-    cookie: { secure: false }
+    cookie: { secure: true }
 }));
 
 app.use('/',require('./router/routerindex'));
