@@ -13,7 +13,13 @@ class userController{
                 role:inputs.role,
                 password:resultHash
             })
-            .then(()=>res.redirect('/'))
+            .then((result)=>{
+                req.session.user={
+                    email:inputs.email,
+                    id:result.id
+                }
+                res.redirect('/user/course')
+            })
             .catch((err)=>res.send(err))
         })
         .catch((err)=>res.send(err));
